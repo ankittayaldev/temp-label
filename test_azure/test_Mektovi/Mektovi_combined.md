@@ -1,0 +1,1058 @@
+# OCR Output: test.pdf
+
+## Page 1
+
+# Pfizer 
+
+Mektovi
+Binimetinib
+15 mg film-coated tablets
+Reference Market: US
+AfME markets using this LPD: Egypt
+
+---
+
+## Page 2
+
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+These highlights do not include all the information needed to use MEKTOVI safely and effectively. See full prescribing information for MEKTOVI.
+
+## MEKTOVI* (binimetinib) tablets, for oral use
+
+Initial U.S. Approval: 2018
+
+## INDICATIONS AND USAGE
+
+MEKTOVI is a kinase inhibitor indicated:
+
+- in combination with encorafenib, for the treatment of patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation, as detected by an FDA-approved test. (1.1, 2.1)
+- in combination with encorafenib, for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) with a BRAF V600E mutation, as detected by an FDA-approved test. (1.2, 2.1)
+
+
+## DOSAGE AND ADMINISTRATION
+
+## Melanoma
+
+- Confirm the presence of BRAF V600E or V600K mutation in tumor specimens prior to the initiation of MEKTOVI. (2.1)
+- The recommended dose is 45 mg orally twice daily in combination with encorafenib. Take MEKTOVI with or without food. (2.2)
+- For patients with moderate or severe hepatic impairment the recommended dose is 30 mg orally twice daily. (2.4, 8.6)
+
+
+## NSCLC
+
+- Confirm the presence of BRAF V600E mutation in tumor or plasma specimens prior to initiating MEKTOVI. (2.1)
+- The recommended dose is 45 mg orally twice daily in combination with encorafenib. Take MEKTOVI with or without food. (2.2)
+
+
+## DOSAGE FORMS AND STRENGTHS
+
+Tablets: $15 \mathrm{mg} .(3)$
+
+## CONTRAINDICATIONS
+
+None. (4)
+
+## WARNINGS AND PRECAUTIONS
+
+- New Primary Malignancies, Cutaneous and Non-cutaneous: Can occur when MEKTOVI is used in combination with encorafenib. Monitor
+
+FULL PRESCRIBING INFORMATION: CONTENTS*
+
+## 1 INDICATIONS AND USAGE
+
+1.1 BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic Melanoma
+1.2 BRAF V600E Mutation-Positive Metastatic Non-Small Cell Lung Cancer (NSCLC)
+2 DOSAGE AND ADMINISTRATION
+2.1 Patient Selection
+2.2 Recommended Dosage and Administration
+2.3 Dosage Modifications for Adverse Reactions
+2.4 Dosage Modifications for Moderate or Severe Hepatic Impairment
+3 DOSAGE FORMS AND STRENGTHS
+4 CONTRAINDICATIONS
+5 WARNINGS AND PRECAUTIONS
+5.1 New Primary Malignancies
+5.2 Cardiomyopathy
+5.3 Venous Thromboembolism
+5.4 Ocular Toxicities
+5.5 Interstitial Lung Disease
+5.6 Hepatotoxicity
+5.7 Rhabdomyolysis
+5.8 Hemorrhage
+5.9 Embryo-Fetal Toxicity
+5.10 Risks Associated with Combination Treatment
+
+6 ADVERSE REACTIONS
+6.1 Clinical Trials Experience
+
+7 DRUG INTERACTIONS
+patients for new malignancies prior to initiation of treatment, during treatment, and after discontinuation of treatment. (5.1)
+
+- Cardiomyopathy: Assess left ventricular ejection fraction (LVEF) before initiating treatment, after one month of treatment, then every 2 to 3 months thereafter. The safety of MEKTOVI has not been established in patients with LVEF below 50\%. (5.2)
+- Venous Thromboembolism: Deep vein thrombosis and pulmonary embolism can occur. (5.3)
+- Ocular Toxicities: Serous retinopathy, retinal vein occlusion (RVO) and uveitis have occurred. Perform an ophthalmologic evaluation at regular intervals and for any visual disturbances. (5.4)
+- Interstitial Lung Disease (ILD): Assess new or progressive unexplained pulmonary symptoms or findings for possible ILD. (5.5)
+- Hepatotoxicity: Monitor liver function tests before and during treatment with MEKTOVI and encorafenib and as clinically indicated. (5.6)
+- Rhabdomyolysis: Monitor creatine phosphokinase and creatinine periodically and as clinically indicated. (5.7)
+- Hemorrhage: Major hemorrhagic events can occur in patients receiving MEKTOVI and encorafenib. (5.8)
+- Embryo-Fetal Toxicity: Can cause fetal harm. Advise females with reproductive potential of potential risk to the fetus and to use effective contraception. (5.9, 8.1, 8.3)
+
+
+## ADVERSE REACTIONS
+
+Melanoma: Most common adverse reactions ( $\geq 25 \%$ ) for MEKTOVI, in combination with encorafenib, are fatigue, nausea, diarrhea, vomiting, and abdominal pain. (6.1)
+NSCLC: Most common adverse reactions ( $\geq 25 \%$ ) for MEKTOVI, in combination with encorafenib, are fatigue, nausea, diarrhea, musculoskeletal pain, vomiting, abdominal pain, visual impairment, constipation, dyspnea, rash, and cough. (6.1)
+
+USE IN SPECIFIC POPULATIONS
+Lactation: Advise not to breastfeed. (8.2)
+See 17 for PATIENT COUNSELING INFORMATION and Medication Guide.
+
+Revised: March 2025
+
+## 8 USE IN SPECIFIC POPULATIONS
+
+8.1 Pregnancy
+8.2 Lactation
+8.3 Females and Males of Reproductive Potential
+8.4 Pediatric Use
+8.5 Geriatric Use
+8.6 Hepatic Impairment
+
+10 OVERDOSAGE
+11 DESCRIPTION
+12 CLINICAL PHARMACOLOGY
+12.1 Mechanism of Action
+12.2 Pharmacodynamics
+12.3 Pharmacokinetics
+
+13 NONCLINICAL TOXICOLOGY
+13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+14 CLINICAL STUDIES
+14.1 BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic Melanoma
+14.2 BRAF V600E Mutation-Positive Metastatic Non-Small Cell Lung Cancer
+16 HOW SUPPLIED/STORAGE AND HANDLING
+17 PATIENT COUNSELING INFORMATION
+*Sections or subsections omitted from the full prescribing information are not listed.
+
+---
+
+## Page 3
+
+# FULL PRESCRIBING INFORMATION 
+
+## 1 INDICATIONS AND USAGE
+
+### 1.1 BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic Melanoma
+
+MEKTOVI is indicated, in combination with encorafenib, for the treatment of patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation, as detected by an FDA-approved test [see Dosage and Administration (2.1)].
+
+### 1.2 BRAF V600E Mutation-Positive Metastatic Non-Small Cell Lung Cancer (NSCLC)
+
+MEKTOVI is indicated, in combination with encorafenib, for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) with a BRAF V600E mutation, as detected by an FDA-approved test. [see Dosage and Administration (2.1)].
+
+## 2 DOSAGE AND ADMINISTRATION
+
+### 2.1 Patient Selection
+
+## BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic Melanoma
+
+Confirm the presence of a BRAF V600E or V600K mutation in tumor specimens prior to initiating MEKTOVI [see Clinical Studies (14)]. Information on FDA-approved tests for the detection of BRAF V600E and V600K mutations in melanoma is available at:
+http://www.fda.gov/CompanionDiagnostics.
+BRAF V600E Mutation-Positive Metastatic Non-Small Cell Lung Cancer (NSCLC)
+Confirm the presence of a BRAF V600E mutation in tumor or plasma specimens prior to initiating MEKTOVI [see Clinical Studies (14.2)]. If no mutation is detected in a plasma specimen, test tumor tissue. Information on FDA-approved tests for the detection of BRAF V600E mutations in NSCLC is available at: http://www.fda.gov/CompanionDiagnostics.
+
+### 2.2 Recommended Dosage and Administration
+
+The recommended dosage of MEKTOVI is 45 mg orally taken twice daily, approximately 12 hours apart, in combination with encorafenib until disease progression or unacceptable toxicity. Refer to the encorafenib prescribing information for recommended encorafenib dosing information.
+MEKTOVI may be taken with or without food [see Clinical Pharmacology (12.3)]. Do not take a missed dose of MEKTOVI within 6 hours of the next dose of MEKTOVI.
+
+Do not take an additional dose if vomiting occurs after MEKTOVI administration but continue with the next scheduled dose.
+
+### 2.3 Dosage Modifications for Adverse Reactions
+
+If encorafenib is permanently discontinued, discontinue MEKTOVI.
+Dose reductions for adverse reactions associated with MEKTOVI are presented in Table 1.
+Table 1: Recommended Dose Reductions for MEKTOVI for Adverse Reactions
+
+| Action | Recommended Dose |
+| :-- | :-- |
+| First Dose Reduction | 30 mg orally twice daily |
+| Subsequent Modification | Permanently discontinue if unable to tolerate MEKTOVI 30 mg orally twice daily |
+
+Dosage modifications for adverse reactions associated with MEKTOVI are presented in Table 2.
+Table 2: Recommended Dosage Modifications for MEKTOVI for Adverse Reactions
+
+| Severity of Adverse Reaction ${ }^{a}$ | Dose Modification for MEKTOVI |
+| :-- | :-- |
+| Cardiomyopathy [see Warnings and Precautions (5.2)] |  |
+
+---
+
+## Page 4
+
+Table 2: Recommended Dosage Modifications for MEKTOVI for Adverse Reactions
+
+| Severity of Adverse Reaction ${ }^{a}$ | Dose Modification for MEKTOVI |
+| :--: | :--: |
+| - Asymptomatic, absolute decrease in LVEF of greater than $10 \%$ from baseline that is also below lower limit of normal (LLN) | Withhold MEKTOVI for up to 4 weeks, evaluate LVEF every 2 weeks. <br> Resume MEKTOVI at a reduced dose if the following are present: <br> - LVEF is at or above the lower limit of normal and <br> - Absolute decrease from baseline is $10 \%$ or less and <br> - Patient is asymptomatic. <br> If the LVEF does not recover within 4 weeks permanently discontinue MEKTOVI. |
+| - Symptomatic congestive heart failure or absolute decrease in LVEF of greater than $20 \%$ from baseline that is also below LLN | Permanently discontinue MEKTOVI. |
+| Venous Thromboembolism [see Warnings and Precautions (5.3)] |  |
+| - Uncomplicated deep venous thrombosis (DVT) or pulmonary embolism (PE) | Withhold MEKTOVI. <br> - If improves to Grade $0-1$, resume at a reduced dose. <br> - If no improvement, permanently discontinue MEKTOVI. |
+| - Life threatening PE | Permanently discontinue MEKTOVI. |
+| Serous Retinopathy [see Warnings and Precautions (5.4)] |  |
+| - Symptomatic serous retinopathy/Retinal pigment epithelial detachments | Withhold MEKTOVI for up to 10 days. <br> - If improves and becomes asymptomatic, resume at same dose. <br> - If not improved, resume at a lower dose level or permanently discontinue MEKTOVI. |
+| Retinal Vein Occlusion (RVO) [see Warnings and Precautions (5.4)] |  |
+| - Any Grade | Permanently discontinue MEKTOVI. |
+| Uveitis [see Warnings and Precautions (5.4)] |  |
+| - Grade 1-3 | If Grade 1 or 2 does not respond to specific ocular therapy, or for Grade 3 uveitis, withhold MEKTOVI for up to 6 weeks. <br> - If improved, resume at same or reduced dose. <br> - If not improved, permanently discontinue MEKTOVI. |
+| - Grade 4 | Permanently discontinue MEKTOVI. |
+| Interstitial Lung Disease [see Warnings and Precautions (5.5)] |  |
+| - Grade 2 | Withhold MEKTOVI for up to 4 weeks. <br> - If improved to Grade $0-1$, resume at a reduced dose. <br> - If not resolved within 4 weeks, permanently discontinue MEKTOVI. |
+| - Grade 3 or Grade 4 | Permanently discontinue MEKTOVI. |
+| Hepatotoxicity [see Warnings and Precautions (5.6)] |  |
+| - Grade 2 AST or ALT increased | Maintain MEKTOVI dose. <br> - If no improvement within 2 weeks, withhold MEKTOVI until improved to Grade $0-1$ or to pretreatment/baseline levels and then resume at the same dose. |
+| - Grade 3 or 4 AST or ALT increased | See Other Adverse Reactions. |
+| Rhabdomyolysis or Creatine Phosphokinase (CPK) elevations [see Warnings and Precautions (5.7)] |  |
+| - Grade 4 asymptomatic CPK elevation or <br> - Any Grade CPK elevation with symptoms or with renal impairment | Withhold MEKTOVI dose for up to 4 weeks. <br> - If improved to Grade $0-1$ resume at a reduced dose. <br> - If not resolved within 4 weeks, permanently discontinue MEKTOVI. |
+
+---
+
+## Page 5
+
+Table 2: Recommended Dosage Modifications for MEKTOVI for Adverse Reactions
+
+| Severity of Adverse Reaction ${ }^{a}$ | Dose Modification for MEKTOVI |
+| :--: | :--: |
+| Dermatologic [other than palmar plantar erythrodysesthesia syndrome (PPES)] [see Adverse Reactions (6.1)] |  |
+| - Grade 2 | If no improvement within 2 weeks, withhold MEKTOVI until Grade $0-1$. Resume at same dose if first occurrence or reduce dose if recurrent. |
+| - Grade 3 | Withhold MEKTOVI until Grade 0-1. Resume at same dose if first occurrence or reduce dose if recurrent. |
+| - Grade 4 | Permanently discontinue MEKTOVI. |
+| Other Adverse Reactions (including Hemorrhage) [see Warnings and Precautions (5.8), Adverse Reactions (6.1)] ${ }^{b}$ |  |
+| - Recurrent Grade 2 or <br> - First occurrence of any Grade 3 | Withhold MEKTOVI for up to 4 weeks. <br> - If improves to Grade $0-1$ or to pretreatment/baseline levels, resume at reduced dose. <br> - If no improvement, permanently discontinue MEKTOVI. |
+| - First occurrence of any Grade 4 | Permanently discontinue MEKTOVI, or <br> Withhold MEKTOVI for up to 4 weeks. <br> - If improves to Grade $0-1$ or to pretreatment/baseline levels, then resume at a reduced dose. <br> - If no improvement, permanently discontinue MEKTOVI. |
+| - Recurrent Grade 3 | Consider permanently discontinuing MEKTOVI. |
+| - Recurrent Grade 4 | Permanently discontinue MEKTOVI. |
+
+a. National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
+b. Dose modification of MEKTOVI when administered with encorafenib is not recommended for the following adverse reactions: palmar-plantar erythrodysesthesia syndrome (PPES), non-cutaneous RAS mutation-positive malignancies, and QTc prolongation.
+Refer to the encorafenib prescribing information for dose modifications for adverse reactions associated with encorafenib.
+
+# 2.4 Dosage Modifications for Moderate or Severe Hepatic Impairment 
+
+For patients with moderate (total bilirubin greater than 1.5 and less than or equal to $3 \times$ ULN and any AST) or severe (total bilirubin levels greater than $3 \times$ ULN and any AST) hepatic impairment, the recommended dosage is 30 mg orally taken twice daily [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+
+## 3 DOSAGE FORMS AND STRENGTHS
+
+Tablets: 15 mg , yellow to dark yellow, unscored ovaloid biconvex film-coated tablets debossed with stylized "A" debossed on one side and " 15 " on the other side.
+
+## 4 CONTRAINDICATIONS
+
+None.
+
+## 5 WARNINGS AND PRECAUTIONS
+
+### 5.1 New Primary Malignancies
+
+New primary malignancies, cutaneous and non-cutaneous, can occur when MEKTOVI is used in combination with encorafenib.
+
+In PHAROS, cutaneous squamous cell carcinoma and skin papilloma each occurred in $2 \%$ of patients who received MEKTOVI in combination with encorafenib.
+
+Monitor patients for new malignancies prior to initiation of treatment, while on treatment, and after discontinuation of treatment [see Dosage and Administration (2.3)].
+
+### 5.2 Cardiomyopathy
+
+Cardiomyopathy, manifesting as left ventricular dysfunction associated with symptomatic or asymptomatic decreases in ejection fraction, has been reported in patients treated with MEKTOVI in combination with
+
+---
+
+## Page 6
+
+encorafenib. In COLUMBUS, evidence of cardiomyopathy (decrease in LVEF below the institutional LLN with an absolute decrease in LVEF ≥10% below baseline as detected by echocardiography or MUGA) occurred in 7% of patients receiving MEKTOVI plus encorafenib. Grade 3 left ventricular dysfunction occurred in 1.6% of patients. The median time to first occurrence of left ventricular dysfunction (any grade) in patients receiving MEKTOVI in combination with encorafenib was 3.6 months (range 0 to 21 months). Cardiomyopathy resolved in 87% of patients receiving MEKTOVI plus encorafenib.
+
+In PHAROS, evidence of cardiomyopathy (decrease in LVEF below the institutional LLN with an absolute decrease in LVEF ≥10% below baseline as detected by echocardiography or MUGA) occurred in 11% of patients receiving MEKTOVI in combination with encorafenib. Grade 3 left ventricular dysfunction occurred in 1% of patients. Cardiomyopathy resolved in 82% of patients receiving MEKTOVI plus encorafenib.
+
+Assess ejection fraction by echocardiogram or MUGA scan prior to initiating treatment, one month after initiating treatment, and then every 2 to 3 months during treatment. The safety of MEKTOVI in combination with encorafenib has not been established in patients with a baseline ejection fraction that is either below 50% or below the institutional lower limit of normal (LLN). Patients with cardiovascular risk factors should be monitored closely when treated with MEKTOVI.
+
+Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+### 5.3 Venous Thromboembolism
+
+In COLUMBUS, venous thromboembolism (VTE) occurred in 6% of patients receiving MEKTOVI in combination with encorafenib, including 3.1% of patients who developed pulmonary embolism. In PHAROS, VTE occurred in 7% of patients receiving MEKTOVI in combination with encorafenib, including 1% of patients who developed pulmonary embolism.
+
+Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+### 5.4 Ocular Toxicities
+
+#### Serous Retinopathy
+
+In COLUMBUS, serous retinopathy occurred in 20% of patients treated with MEKTOVI in combination with encorafenib; 8% were retinal detachment and 6% were macular edema. Symptomatic serous retinopathy occurred in 8% of patients with no cases of blindness. No patient discontinued MEKTOVI due to serous retinopathy; 6% of patients required dose interruptions or dose reductions. The median time to onset of the first event of serous retinopathy (all grades) was 1.2 months (range 0 to 17.5 months).
+
+In PHAROS, serous retinopathy (retinal detachment) occurred in 2% of patients with no cases of blindness treated with MEKTOVI in combination with encorafenib. No patient permanently discontinued MEKTOVI due to serous retinopathy; 1% of patients required dose interruptions.
+
+Assess for visual symptoms at each visit. Perform an ophthalmologic examination at regular intervals, for new or worsening visual disturbances, and to follow new or persistent ophthalmologic findings. Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+#### Retinal Vein Occlusion
+
+RVO is a known class-related adverse reaction of MEK inhibitors and may occur in patients treated with MEKTOVI in combination with encorafenib. In patients with BRAF mutation-positive melanoma receiving MEKTOVI with encorafenib (n=690), 1 patient experienced RVO (0.1%).
+
+The safety of MEKTOVI has not been established in patients with a history of RVO or current risk factors for RVO including uncontrolled glaucoma or a history of hyperviscosity or hypercoagulability syndromes.
+
+Perform ophthalmologic evaluation for patient-reported acute vision loss or other visual disturbance within 24 hours. Permanently discontinue MEKTOVI in patients with documented RVO [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+---
+
+## Page 7
+
+# Uveitis 
+
+Uveitis, including iritis and iridocyclitis, has been reported in patients treated with MEKTOVI in combination with encorafenib. In COLUMBUS, the incidence of uveitis among patients treated with MEKTOVI in combination with encorafenib was $4 \%$. In PHAROS, uveitis occurred in $1 \%$ of patients receiving MEKTOVI in combination with encorafenib.
+Assess for visual symptoms at each visit. Perform an ophthalmologic evaluation at regular intervals and for new or worsening visual disturbances, and to follow new or persistent ophthalmologic findings. Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+### 5.5 Interstitial Lung Disease
+
+In patients with BRAF mutation-positive melanoma receiving MEKTOVI with encorafenib ( $\mathrm{n}=690$ ), 2 patients ( $0.3 \%$ ) developed interstitial lung disease (ILD), including pneumonitis. In PHAROS, 1 patient ( $1 \%$ ) receiving MEKTOVI with encorafenib developed pneumonitis.
+Assess new or progressive unexplained pulmonary symptoms or findings for possible ILD. Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+### 5.6 Hepatotoxicity
+
+Hepatotoxicity can occur when MEKTOVI is administered in combination with encorafenib. In COLUMBUS, the incidence of Grade 3 or 4 increases in liver function laboratory tests in patients receiving MEKTOVI in combination with encorafenib was $6 \%$ for alanine aminotransferase (ALT), $2.6 \%$ for aspartate aminotransferase (AST), and $0.5 \%$ for alkaline phosphatase. No patient experienced Grade 3 or 4 serum bilirubin elevation. In PHAROS, the incidence of Grade 3 or 4 increases in liver function laboratory tests in patients receiving MEKTOVI in combination with encorafenib was $10 \%$ for AST, $9 \%$ for ALT, and $3.2 \%$ for alkaline phosphatase.
+Monitor liver laboratory tests before initiation of MEKTOVI, monthly during treatment, and as clinically indicated. Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+### 5.7 Rhabdomyolysis
+
+Rhabdomyolysis can occur when MEKTOVI is administered in combination with encorafenib. In COLUMBUS, elevation of laboratory values of serum CPK occurred in $58 \%$ of patients treated with MEKTOVI in combination with encorafenib. In patients with BRAF mutation-positive melanoma receiving MEKTOVI with encorafenib ( $\mathrm{n}=690$ ), rhabdomyolysis was reported in 1 patient ( $0.1 \%$ ). In PHAROS, elevation of laboratory values of serum creatine kinase (CK) occurred in $41 \%$ of patients treated with MEKTOVI in combination with encorafenib. No patient experienced rhabdomyolysis.
+Monitor CPK and creatinine levels prior to initiating MEKTOVI, periodically during treatment, and as clinically indicated. Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+### 5.8 Hemorrhage
+
+Hemorrhage can occur when MEKTOVI is administered in combination with encorafenib. In COLUMBUS, hemorrhage occurred in $19 \%$ of patients receiving MEKTOVI in combination with encorafenib. Grade 3 or greater hemorrhage occurred in $3.2 \%$ of patients. The most frequent hemorrhagic events were gastrointestinal, including rectal hemorrhage ( $4.2 \%$ ), hematochezia ( $3.1 \%$ ), and hemorrhoidal hemorrhage ( $1 \%$ ). Fatal intracranial hemorrhage in the setting of new or progressive brain metastases occurred in $1.6 \%$ of patients.
+In PHAROS, hemorrhage occurred in $12 \%$ of patients receiving MEKTOVI in combination with encorafenib including fatal hemorrhage intracranial ( $1 \%$ ); Grade 3 or 4 hemorrhage occurred in $4.1 \%$ of patients. The most frequent hemorrhagic events were anal hemorrhage and hemothorax( $2 \%$ each).
+
+---
+
+## Page 8
+
+Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction [see Dosage and Administration (2.3), Adverse Reactions (6.1)].
+
+# 5.9 Embryo-Fetal Toxicity 
+
+Based on findings from animal studies and its mechanism of action, MEKTOVI can cause fetal harm when administered to a pregnant woman. Binimetinib was embryotoxic and abortifacient when administered to rabbits during the period of organogenesis at doses greater than or equal to those resulting in exposures approximately 5 times the human exposure at the recommended clinical dose of 45 mg twice daily.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with MEKTOVI and for 30 days after the last dose [see Use in Specific Populations (8.1, 8.3)].
+
+### 5.10 Risks Associated with Combination Treatment
+
+MEKTOVI is indicated for use in combination with encorafenib. Refer to the encorafenib prescribing information for additional risk information that applies to combination use treatment.
+
+## 6 ADVERSE REACTIONS
+
+The following adverse reactions are described elsewhere in the labeling:
+
+- New Primary Malignancies [see Warnings and Precautions (5.1)]
+- Cardiomyopathy [see Warnings and Precautions (5.2)]
+- Venous Thromboembolism [see Warnings and Precautions (5.3)]
+- Ocular Toxicities [see Warnings and Precautions (5.4)]
+- Interstitial Lung Disease [see Warnings and Precautions (5.5)]
+- Hepatotoxicity [see Warnings and Precautions (5.6)]
+- Rhabdomyolysis [see Warnings and Precautions (5.7)]
+- Hemorrhage [see Warnings and Precautions (5.8)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.9)]
+- Risks Associated with Combination Treatment [see Warnings and Precautions (5.10)]
+
+
+### 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The data described in WARNINGS AND PRECAUTIONS reflect exposure of 192 patients with BRAF V600 mutation-positive unresectable or metastatic melanoma to MEKTOVI 45 mg twice daily in combination with encorafenib 450 mg once daily in a randomized open-label, active-controlled trial (COLUMBUS) [see Clinical Studies (14.1)] or, for rare events, exposure of 690 patients with BRAF V600 mutation-positive melanoma to MEKTOVI 45 mg twice daily in combination with encorafenib once daily across multiple clinical trials (NCT03915951, NCT01909453).
+The pooled safety population described in the WARNINGS AND PRECAUTIONS also reflect exposure of 98 patients with BRAF V600E mutation-positive metastatic non-small cell lung cancer to MEKTOVI 45 mg twice daily and encorafenib 450 mg once daily until disease progression or unacceptable toxicity in PHAROS [see Clinical Studies (14.2)].
+
+## BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic Melanoma
+
+The data described below reflect exposure of 192 patients with BRAF V600 mutation-positive unresectable or metastatic melanoma to MEKTOVI ( 45 mg twice daily) in combination with encorafenib ( 450 mg once daily) in COLUMBUS.
+The COLUMBUS trial [see Clinical Studies (14.1)] excluded patients with a history of Gilbert's syndrome, abnormal left ventricular ejection fraction, prolonged QTc ( $>480 \mathrm{msec}$ ), uncontrolled hypertension, and history or current evidence of retinal vein occlusion. The median duration of exposure was 11.8 months for
+
+---
+
+## Page 9
+
+patients treated with MEKTOVI in combination with encorafenib and 6.2 months for patients treated with vemurafenib.
+
+The most common ( $\geq 25 \%$ ) adverse reactions in patients receiving MEKTOVI in combination with encorafenib were fatigue, nausea, diarrhea, vomiting, and abdominal pain.
+Adverse reactions leading to dose interruptions of MEKTOVI occurred in $33 \%$ of patients receiving MEKTOVI in combination with encorafenib; the most common were left ventricular dysfunction (6\%) and serous retinopathy ( $5 \%$ ). Adverse reactions leading to dose reductions of MEKTOVI occurred in $19 \%$ of patients receiving MEKTOVI in combination with encorafenib; the most common were left ventricular dysfunction (3\%), serous retinopathy (3\%), and colitis (2\%). Five percent (5\%) of patients receiving MEKTOVI in combination with encorafenib experienced an adverse reaction that resulted in permanent discontinuation of MEKTOVI. The most common adverse reactions resulting in permanent discontinuation of MEKTOVI were hemorrhage in $2 \%$ and headache in $1 \%$ of patients.
+Table 3 and Table 4 present adverse drug reactions and laboratory abnormalities, respectively, identified in COLUMBUS. The COLUMBUS trial was not designed to demonstrate a statistically significant difference in adverse reaction rates for MEKTOVI in combination with encorafenib, as compared to vemurafenib, for any specific adverse reaction listed in Table 3.
+
+---
+
+## Page 10
+
+Table 3: Adverse Reactions Occurring in ≥10% of Patients Receiving MEKTOVI in Combination with Encorafenib in COLUMBUS^{a}
+
+|  Adverse Reaction | MEKTOVI with encorafenib N=192 | Vemurafenib N=186  |
+| --- | --- | --- |
+|   | All Grades (%) | Grades 3 and 4^{b} (%)  |
+|  **General Disorders and Administration Site Conditions** |  |   |
+|  Fatigue^{c} | 43 | 3  |
+|  Pyrexia^{c} | 18 | 4  |
+|  Peripheral edema^{c} | 13 | 1  |
+|  **Gastrointestinal Disorders** |  |   |
+|  Nausea | 41 | 2  |
+|  Diarrhea | 36 | 3  |
+|  Vomiting^{c} | 30 | 2  |
+|  Abdominal pain^{c} | 28 | 4  |
+|  Constipation | 22 | 0  |
+|  **Skin and Subcutaneous Tissue Disorders** |  |   |
+|  Rash^{c} | 22 | 1  |
+|  **Nervous System Disorders** |  |   |
+|  Dizziness^{c} | 15 | 3  |
+|  **Visual Disorders** |  |   |
+|  Visual impairment^{c} | 20 | 0  |
+|  Serous retinopathy/RPED^{c} | 20 | 3  |
+|  **Vascular Disorders** |  |   |
+|  Hemorrhage^{c} | 19 | 3  |
+|  Hypertension^{c} | 11 | 6  |
+
+a. Grades per National Cancer Institute CTCAE v4.03.
+
+b. Grade 4 adverse reactions limited to diarrhea (n=1) and hemorrhage (n=3) in the MEKTOVI with encorafenib arm and constipation (n=1) in the vemurafenib arm.
+
+c. Represents a composite of multiple, related preferred terms.
+
+Other clinically important adverse reactions occurring in <10% of patients who received MEKTOVI in combination with encorafenib were:
+
+**Gastrointestinal disorders:** *Colitis*
+
+**Skin and subcutaneous tissue disorders:** *Panniculitis*, *Photosensitivity*
+
+**Immune system disorders:** *Drug hypersensitivity*
+
+---
+
+## Page 11
+
+Table 4: Laboratory Abnormalities Occurring in $\geq 10 \%$ (All grades) of Patients Receiving MEKTOVI in Combination with Encorafenib in COLUMBUS ${ }^{a}$
+
+| Laboratory Abnormality | MEKTOVI <br> with encorafenib $\mathrm{N}=192$ |  | Vemurafenib $\mathrm{N}=186$ |  |
+| :--: | :--: | :--: | :--: | :--: |
+|  | $\begin{gathered} \text { All } \\ \text { Grades } \\ (\%) \end{gathered}$ | Grades <br> 3 and 4 <br> (\%) | $\begin{gathered} \text { All } \\ \text { Grades } \\ (\%) \end{gathered}$ | Grades <br> 3 and 4 <br> (\%) |
+| Hematology |  |  |  |  |
+| Anemia | 36 | 3.6 | 34 | 2.2 |
+| Leukopenia | 13 | 0 | 10 | 0.5 |
+| Lymphopenia | 13 | 2.1 | 30 | 7 |
+| Neutropenia | 13 | 3.1 | 4.8 | 0.5 |
+| Chemistry |  |  |  |  |
+| Increased Creatinine | 93 | 3.6 | 92 | 1.1 |
+| Increased Creatine Phosphokinase | 58 | 5 | 3.8 | 0 |
+| Increased Gamma Glutamyl Transferase | 45 | 11 | 34 | 4.8 |
+| Increased ALT | 29 | 6 | 27 | 2.2 |
+| Increased AST | 27 | 2.6 | 24 | 1.6 |
+| Increased Alkaline Phosphatase | 21 | 0.5 | 35 | 2.2 |
+| Hyponatremia | 18 | 3.6 | 15 | 0.5 |
+
+a. Grades per National Cancer Institute CTCAE v4.03.
+
+# BRAF V600E Mutation-Positive Metastatic Non-Small Cell Lung Cancer (NSCLC) 
+
+The safety of MEKTOVI in combination with encorafenib is described in 98 patients with BRAF V600E mutation-positive metastatic NSCLC who received MEKTOVI ( 45 mg twice daily) in combination with encorafenib ( 450 mg once daily) in an open-label, single-arm trial (PHAROS).
+The PHAROS trial [see Clinical Studies (14.2)] excluded patients with abnormal LVEF, prolonged QTc ( $>480 \mathrm{~ms}$ ), uncontrolled hypertension, and history or current evidence of retinal vein occlusion. The median duration of treatment for MEKTOVI and encorafenib was 8.4 and 9.2 months respectively.
+The most common ( $\geq 25 \%$ ) adverse reactions in patients receiving MEKTOVI were fatigue, nausea, diarrhea, musculoskeletal pain, vomiting, abdominal pain, visual impairment, constipation, dyspnea, rash, and cough.
+Adverse reactions leading to dose interruptions of MEKTOVI occurred in $62 \%$ of patients receiving MEKTOVI; the most common ( $\geq 5 \%$ ) were diarrhea ( $17 \%$ ); nausea ( $15 \%$ ); fatigue ( $9 \%$ ); AST increased (7\%); ALT increased, anemia, musculoskeletal pain, vomiting ( $6 \%$ each); and acute kidney injury, hemorrhage, and LV dysfunction/cardiomyopathy ( $5 \%$ each). Adverse reactions leading to dose reductions of MEKTOVI occurred in $33 \%$ of patients receiving MEKTOVI; the most common ( $\geq 5 \%$ ) were diarrhea ( $8 \%$ ), nausea ( $6 \%$ ), and AST increased (5\%). A total of $17 \%$ of patients receiving MEKTOVI experienced an adverse reaction that resulted in permanent discontinuation of MEKTOVI; the most common ( $\geq 2 \%$ ) were diarrhea ( $3.1 \%$ ); musculoskeletal pain, LV dysfunction/cardiomyopathy, fatigue, nausea, rash, visual impairment, and vomiting ( $2 \%$ each). None of the other adverse reactions leading to permanent discontinuation of MEKTOVI occurred in more than 1 patient.
+Serious adverse reactions occurred in $38 \%$ of patients who received MEKTOVI in combination with encorafenib. Serious adverse reactions in $\geq 2 \%$ of patients included hemorrhage ( $6 \%$ ); diarrhea ( $4.1 \%$ ); anemia, dyspnea, pneumonia ( $3.1 \%$ each); arrhythmia, device related infection, edema, myocardial infarction, and pleural effusion ( $2 \%$ each). Fatal adverse reactions occurred in $2 \%$ of patients who received MEKTOVI ( 45 mg twice-daily) in combination with encorafenib, including intracranial hemorrhage and myocardial infarction ( $1 \%$ each).
+
+---
+
+## Page 12
+
+Table 5 and Table 6 present adverse drug reactions and laboratory abnormalities, respectively, identified in PHAROS.
+
+Table 5: Adverse Reactions Occurring in $\geq 10 \%$ of Patients Receiving MEKTOVI in Combination with Encorafenib in PHAROS ${ }^{a}$
+
+| Adverse Reaction | MEKTOVI with encorafenib $\mathrm{N}=98$ |  |
+| :--: | :--: | :--: |
+|  | $\begin{gathered} \text { All } \\ \text { Grades } \\ (\%) \end{gathered}$ | Grade 3 and $4^{\text {b }}$ (\%) |
+| General Disorders and Administration Site Conditions |  |  |
+| Fatigue ${ }^{\text {c }}$ | 61 | 8 |
+| Edema ${ }^{\text {d }}$ | 23 | 1 |
+| Pyrexia | 22 | 0 |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 58 | 3.1 |
+| Diarrhea ${ }^{\text {e }}$ | 52 | 7 |
+| Vomiting | 37 | 1 |
+| Abdominal pain ${ }^{\text {f }}$ | 32 | 1 |
+| Constipation | 27 | 0 |
+| Eye Disorders |  |  |
+| Visual impairment ${ }^{\text {g }}$ | 29 | 2 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Musculoskeletal pain ${ }^{\text {h }}$ | 48 | 4.1 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rash ${ }^{i}$ | 27 | 3.1 |
+| Pruritis ${ }^{j}$ | 16 | 0 |
+| Dry skin | 13 | 0 |
+| Alopecia | 12 | 0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Dyspnea ${ }^{\text {k }}$ | 27 | 8 |
+| Cough ${ }^{1}$ | 26 | 0 |
+| Nervous System Disorders |  |  |
+| Dizziness ${ }^{\text {m }}$ | 17 | 1 |
+| Headache | 11 | 0 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased appetite | 14 | 1 |
+| Vascular Disorders |  |  |
+| Hemorrhage ${ }^{\text {h,n }}$ | 12 | 4.1 |
+| Hypertension | 10 | 5 |
+| Cardiac Disorders |  |  |
+| Left ventricular dysfunction/cardiomyopathy ${ }^{\text {o }}$ | 11 | 1 |
+| Investigations |  |  |
+| Weight increased | 11 | 1 |
+| Psychiatric Disorders |  |  |
+| Insomnia | 10 | 0 |
+
+a. Grades per National Cancer Institute CTCAE v4.03.
+b. One Grade 5 adverse reaction of hemorrhage occurred.
+
+---
+
+## Page 13
+
+c. Fatigue includes fatigue, asthenia.
+d. Edema includes edema peripheral, generalized edema, swelling, localized edema, face edema.
+e. Diarrhea includes diarrhea, colitis.
+f. Abdominal pain includes abdominal pain, abdominal pain upper, abdominal discomfort, epigastric discomfort.
+g. Visual impairment includes vision blurred, visual impairment, vitreous floaters, photophobia, visual acuity reduced, photopsia.
+h. Musculoskeletal pain includes back pain, arthralgia, pain in extremity, myalgia, musculoskeletal chest pain, non-cardiac chest pain, neck pain.
+i. Rash includes rash, rash macular, rash maculo-papular, rash papular, rash pustular,dermatitis acneiform, palmar-plantar erythrodysesthesia syndrome, eczema, skin exfoliation.
+j. Pruritis includes pruritus, pruritus genital.
+k. Dyspnea includes dyspnea, dyspnea exertional.
+2. Cough includes cough, productive cough.
+m. Dizziness includes dizziness, balance disorder.
+n. Hemorrhage includes anal hemorrhage, hemothorax, gastrointestinal hemorrhage, hematochezia, hematuria, hemoptysis, hemorrhage intracranial, hyphema, small intestinal hemorrhage, upper gastrointestinal hemorrhage, vaginal hemorrhage.
+o. Left ventricular dysfunction/cardiomyopathy includes ejection fraction decreased, cardiac failure, cardiac failure congestive.
+
+Other clinically important adverse reactions occurring in $<10 \%$ of patients who received MEKTOVI in combination with encorafenib were:
+Nervous system disorders: Peripheral neuropathy, Dysgeusia, Facial paresis
+Gastrointestinal disorders: Pancreatitis
+Skin and subcutaneous tissue disorders: Hyperkeratosis, Erythema, Photosensitivity
+Immune system disorders: Drug hypersensitivity
+Table 6: Laboratory Abnormalities Occurring in $\geq 10 \%$ (All Grades) of Patients Receiving MEKTOVI with Encorafenib in PHAROS ${ }^{a}$
+
+| Laboratory Abnormality ${ }^{\text {b }}$ | MEKTOVI with encorafenib |  |
+| :--: | :--: | :--: |
+|  | All Grades (\%) | Grades <br> 3 and 4 <br> (\%) |
+| Hematology |  |  |
+| Anemia | 47 | 11 |
+| Lymphopenia | 24 | 6 |
+| Thrombocytopenia | 20 | 1.1 |
+| Leukopenia | 12 | 0 |
+| Neutropenia | 12 | 1.1 |
+| Chemistry |  |  |
+| Increased creatinine | 91 | 3.2 |
+| Hyperglycemia | 48 | 6 |
+| Increased creatine kinase | 41 | 3.3 |
+| Lipase increased | 40 | 14 |
+| Increased ALT | 34 | 9 |
+| Hypoalbuminemia | 32 | 0 |
+| Increased AST | 31 | 10 |
+| Increased alkaline phosphatase | 31 | 3.2 |
+| Hyperkalemia | 31 | 2.1 |
+| Hyponatremia | 26 | 11 |
+| Serum amylase increased | 22 | 1.1 |
+| Hypocalcemia | 12 | 2.1 |
+
+a. Grades per National Cancer Institute CTCAE v4.03.
+b. Based on the number of patients with available baseline and at least one on-treatment laboratory test.
+
+---
+
+## Page 14
+
+# To report any side effect(s): 
+
+## Egypt:
+
+Pharmacovigilance center, Pfizer Pharmaceutical Company: EGY.AEReporting@pfizer.com Egyptian Pharmacovigilance center (EPVC), EDA: pv.followup@edaegypt.gov.eg
+
+## 7 DRUG INTERACTIONS
+
+No clinically important drug interactions have been observed with MEKTOVI.
+
+## 8 USE IN SPECIFIC POPULATIONS
+
+### 8.1 Pregnancy
+
+## Risk Summary
+
+Based on findings from animal reproduction studies and its mechanism of action [see Clinical Pharmacology (12.1)], MEKTOVI can cause fetal harm when administered to a pregnant woman. There are no available clinical data on the use of MEKTOVI during pregnancy. In animal reproduction studies, oral administration of binimetinib during the period of organogenesis was embryotoxic and an abortifacient in rabbits at doses greater than or equal to those resulting in exposures approximately 5 times the human exposure at the clinical dose of 45 mg twice daily (see Data). Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is $2 \%$ to $4 \%$ and $15 \%$ to $20 \%$, respectively.
+
+## Data
+
+## Animal Data
+
+In reproductive toxicity studies, administration of binimetinib to rats during the period of organogenesis resulted in maternal toxicity, decreased fetal weights and increased variations in ossification at doses $\geq 30 \mathrm{mg} / \mathrm{kg} /$ day (approximately 37 times the human exposure based on AUC at the recommended clinical dose of 45 mg twice daily). In pregnant rabbits, administration of binimetinib during the period of organogenesis resulted in maternal toxicity, decreased fetal body weights, an increase in malformations, and increased post-implantation loss, including total loss of pregnancy at doses $\geq 10 \mathrm{mg} / \mathrm{kg} /$ day (approximately 5 times the human exposure based on AUC at the recommended clinical dose of 45 mg twice daily). There was a significant increase in fetal ventricular septal defects and pulmonary trunk alterations at $20 \mathrm{mg} / \mathrm{kg} /$ day of binimetinib (less than 8 times the human exposure at the recommended clinical dose of 45 mg twice daily).
+
+### 8.2 Lactation
+
+## Risk Summary
+
+There are no data on the presence of binimetinib or its active metabolite in human milk, or the effects of binimetinib on the breastfed child, or the effects on milk production. Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with MEKTOVI and for 3 days after the last dose.
+
+### 8.3 Females and Males of Reproductive Potential
+
+Based on animal data, MEKTOVI can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
+## Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating MEKTOVI [see Use in Specific Populations (8.1)].
+
+## Contraception
+
+Females
+
+---
+
+## Page 15
+
+Advise females of reproductive potential to use effective contraception during treatment with MEKTOVI and for 30 days after the last dose.
+
+# 8.4 Pediatric Use 
+
+The safety and effectiveness of MEKTOVI have not been established in pediatric patients.
+
+### 8.5 Geriatric Use
+
+Of the 690 patients with BRAF mutation-positive melanoma who received MEKTOVI in combination with encorafenib across multiple clinical trials, $20 \%$ were aged 65 to 74 years and $8 \%$ were aged 75 years and older [see Clinical Pharmacology (12.3)].
+Of the 98 patients with BRAF V600E mutation-positive metastatic NSCLC who received MEKTOVI in combination with encorafenib, $62(63.2 \%)$ were 65 years of age and over and $20(20.4 \%)$ were 75 years and over [see Clinical Studies (14.2)].
+No overall differences in the safety or effectiveness of MEKTOVI plus encorafenib were observed in older patients as compared to younger patients.
+
+### 8.6 Hepatic Impairment
+
+Binimetinib concentrations may increase in patients with moderate or severe hepatic impairment. Dose adjustment for MEKTOVI is not recommended in patients with mild hepatic impairment (total bilirubin $>1$ and $\leq 1.5 \times$ ULN and any AST or total bilirubin $\leq$ ULN and AST $>$ ULN). Reduce the dose of MEKTOVI for patients with moderate (total bilirubin $>1.5$ and $\leq 3 \times$ ULN and any AST) or severe (total bilirubin levels $>3 \times$ ULN and any AST) hepatic impairment [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+
+## 10 OVERDOSAGE
+
+Since binimetinib is $97 \%$ bound to plasma proteins, hemodialysis is likely to be ineffective in the treatment of overdose with MEKTOVI.
+
+## 11 DESCRIPTION
+
+Binimetinib is a kinase inhibitor. The chemical name is 5-[(4-bromo-2-fluorophenyl)amino]-4-fluoro-N-(2-hydroxyethoxy)-1-methyl-1H-benzimidazole-6-carboxamide. The molecular formula is $\mathrm{C}_{17} \mathrm{H}_{15} \mathrm{BrF}_{2} \mathrm{~N}_{4} \mathrm{O}_{3}$ and the molecular weight is 441.2 daltons. The chemical structure of binimetinib is shown below:
+![img-0.jpeg](data:image/jpeg;base64,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FFFFABRRRQAUUUUAFFFFABRRRQAUYoooATAxjAxS0UUAFFFFABRRRQAUUUUAFFFFABRRRQBx/jz73h3/ALDEH/s1df3rkPHf3vDn/YYg/wDZq68UALRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAcv46vbrTtBhms5mhkN5AhZe4LgEV068jrXI/Eb/kWof+v+2/9GCuuFAC0UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBx/jv73hz/sMQf+zV14rkPHf3vDn/AGGIP/Zq68UALRRRQAUUUUAFFFFABRRRQAVl+IL+bS/D9/fQAGWCFnQN0JFalYXjH/kTtW/69n/lQAeFtXudZ8JWWp3IQXE0O9ggOM81R8CeIr7xJpt3cXyRq8N08S7BgbQa5jwZ4TuLrwTp1wvibWIQ0GRFHKAi8ngcZq58Ho/K8O38ZkeQpfSDe5yzc9TigD0aiiigAooooAKKKKACiiigAooooA5H4jf8i1D/ANf9t/6MFdaK5L4jf8i1D/1/23/owV1ooAWiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOP8d/e8Of9hiD/ANmrrxXC+O9SsTdaNbi7i8221GG5nTfzFEAcucdhxk12drd299Ak9rOk0TgMrIcgigCxRRRQAUUUUAFFFFABRRRQAVl+IhZt4evxfu6WhhbzWTqFxzitSsPxj/yJ+q/9e7/yoAreCbnR7vwfZjQ7iSawVDGjSff75B96g8CRaLDp16miTTywi6fzDN1D55A9q5TwV/xS9tpTliNM1iD8I5/f69K2vhaMaXque2oSD9aAO9ooooAKKKKACiiigAooooAKKKYzKikswUDqSaAOU+I3/ItQ/wDX/bf+jBXWiuA8Yazba9ZJpmkia9mjuI55HgQtGgjYMwLdM4HSun0nxLpusZS3mMdwoBktphslj5/iU9KANmikpaACiiigAooooAKKKKACiiigAooooAKKKKAC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15xf+gigDYooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDlfiP8A8iDqv+4v/oYrauf+Rfm/69T/AOg1ifEf/kQdV/3F/wDQxXRRRrNp6xSDcjxBWHqCKAMP4fn/AIoLRcf8+y10tVdPsbfTLGGytE2W8K7UX0FWqACiiigAooooAKKKKACisrWNestChR7yRtzttjjjQu7n2Uc/jT9G1C61KyM91p0ti5chYpXDMV7Hjpn0oAwfH/8Ax7aF/wBhi3/ma7CuP8f/APHtoX/YYt/5muwoAKKKKACiiigAooooAKKKKACiiigDkPiL/wAgKy/7Cdr/AOh1oeNv+RJ1r/r0k/lWd8Rj/wASGy9f7Stv/Q66e+soNRsZ7O5XfBMhR1zjIPUUAVtA/wCRd03H/PtH/wCgitKoreCO1t44IV2xRqFRfQCpaACiiigAooooAKKKO1ABRWNrPiOz0VooZd811N8sNvEpLMff0Huaj0W712+me41GzhsrN1zFAW3TKf8AaI4oAl8Vf8ilq/8A15y/+gmjwr/yKWj/APXnF/6CKTxUR/wierk9Pscv/oBo8KgjwnpHtaRf+gigDZooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKD0P9KACoLq6gsraS4uZVihjGWdjgAVX1XVbbSLFrq6fCdFUcl2PRQO5rCttFv9cuY7/XpWW3yJI9MA+SM5ypc/xN6jpQBBJBqfjRGS4VbPw/LzsI/fTgcgnPRT19afu8TeHFwy/wBu2K91AjuF+v8ACVA/GuvCgDAHFGAOwoAz9M1ix1iLzbK5STAG5M/Onsy9Qc+taNc7qfhKxvZ/tdqz6ffqSy3Nudp3f3mHRvxzVJfEN/4eYWuv20stunCanGMq/oGUdGx1PSgDr6Kq2V9bX8Cz2lzHPE38SMGH046VaoAKD0prMEUsxAAHJJrmr7xWk1x/Z2gqt/qDdGGTBH7s4447jOaAN28v7XT7cz3dxFBEDjfI20VzJ17UfEbfZdAt57e1fh9TmXAT1CqeS3p2qez8MTXlwLzxHdJqExGVtig8mE9woP3vqav6vr9no6iEfv71gPJs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BDZ6VzdzYX2ofGi/jsdVl06RbBCXjRX3DPoakEOo+GvilpP9o6i+rf2jAYVkljVWhweoA6UAeiyazpkEnly6hbJJu2bTKoOfTGat/aIv+eqf99V5l4F0HTb7xJ4mvLy1iuJUv/3fmqG2fTPSvS/skH/PJfyFAE1FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBT1G7msrCW4gtJbuVACIIiNzfTNc5/wl+s/9CXq3/fcf+NdfgelFAHIf8JfrP/Ql6t/33H/jR/wl+s/9CXq3/fcf+NdfRQByH/CX6z/0Jerf99x/40n/AAl+sn/mS9W/77j/AMa7Cg9KAOH8X302o/DTU7i6sJbF2jINvMQWxkdcGsnwix8M20WjSyAWF/Z+dZn+6+PmX/Cut8b2Fzqfg/UbKziM1xLHhEzjJzms7UvDd1qPgW2tExFq1rADA56pIByP6UAQfCkf8UcP+vmX/wBCrucCuN+Gelano/g6G11eDybwSMzrn1PWuyoAKKKKACiiigAooooAKD+tFB5FAHHP/wATL4nxGL5f7JtGEu/+LzcY2+v3TXY4rjvCX/Ex8Q+INZcbJftP2Hyx02xdDn33V2NABRRRQAUUUUAFFFFABRRRQAUjDKkDuKWigDlPA3hm68M2moQ3U0Upubt518vPAPrXV0UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABQelFFAHGan4HubjxTNr+na7cWFzLCIXVYlZcD61Z0vwc1vrS6xquqT6nexLtheVQojB64UcfjXVUUAYWgeG4dButRninkkN9N5zBh90+grdoooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoPSiigDm01S7s/Gsum3rg2l3CJLLAwEK8OpPcknI+ldJXL+ObKabw+b2zjL39hItzbHsrA8k+uFJrd0++h1GwgvLeTfDMgdW9QaALdFFFABRRRQAUUUUAFVNRlEOm3UhkEYWJjvJxt44Oat1ynxDZX8IXdkp/0m9229und5CRhf50AS+AIingvTZJIys8sZkmZhhmck5Lep6cmumqC1RktIVcYZUUEehwOKnoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAGuiujKygqwIIPQiuS8Ju2ma1q/h0sWgtXWe3Z+Dsk52qP7q8DiuvrkPGKnSbiy8UREBrFxHcA8l4GOCAPXO2gDr6Ki83/R/NVWbK7gvc8dK5U+KtauWNvZ+FdQiuG4jku9qxA+rEHIFAHX0Vx/2zx/8A9AvRB7/aX/wpf7M8Zah+/n1yDS36G2toBMo99zYNAHX0gOa5D/hHfFTcP4wYqeCBZRjI+vatDR/Ctro16bqK91CaUrhhcXLOvPfB4oA6CuR8SRyan4q0DSjG6wxym/MyjOGj4Cn0zuNZfxC8Vaz4d1XRU0va8MzlrmJkyWQdcGr3izxRPaeEbbV9HmjBmmjUMV3DDdaAOzxilqG3cyW0UjHLMgJP1qagAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKqajYQ6np89nOoaOZCpyAce+KKKAMLwbfzPp82mXjs13p8hhLM24yoPuuT6n07Ut14+8NWVzJbz35SWM4YCCQ4P4LRRQBRuviVpICnT4LnUB/EY1Eez678Z/CoYvH9xqEotNO0OYXkh2xm4mQRhvfDZxRRQBbN74+Az/ZOi/8AgS/+FWLHTPFDX8V3fa9GIt+6WxjtlKj/AGQ/B/GiigDH8ZAN4/8ACisoZTI4IPeuT8aufD1rP4ckYG2mu47ixwPuDPKn0oooA9mtf+PSH/rmv8hU1FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//2Q==)
+> **Image annotation:** Chemical structure diagram of binimetinib showing aromatic rings and substituents including hydroxyl, fluorine, bromine, and amide-linked groups.
+
+Binimetinib is a white to slightly yellow powder. In aqueous media, binimetinib is slightly soluble at pH 1 , very slightly soluble at pH 2 , and practically insoluble at pH 4.5 and higher.
+MEKTOVI (binimetinib) tablets for oral use contain 15 mg of binimetinib with the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, magnesium stearate (vegetable origin), and silica colloidal anhydrous. The film-coating contains polyvinyl alcohol, macrogol, titanium dioxide, talc, iron oxide yellow, and iron oxide black.
+
+## 12 CLINICAL PHARMACOLOGY
+
+### 12.1 Mechanism of Action
+
+Binimetinib is a reversible inhibitor of mitogen-activated extracellular signal regulated kinase 1 (MEK1) and MEK2 activity. MEK proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway. In vitro, binimetinib inhibited extracellular signal-related kinase (ERK) phosphorylation in cell-
+
+---
+
+## Page 16
+
+free assays as well as viability and MEK-dependent phosphorylation of BRAF-mutant human melanoma cell lines. Binimetinib also inhibited in vivo ERK phosphorylation and tumor growth in BRAF-mutant murine xenograft models.
+
+Binimetinib and encorafenib target two different kinases in the RAS/RAF/MEK/ERK pathway. Compared to either drug alone, coadministration of encorafenib and binimetinib resulted in greater anti-proliferative activity in vitro in BRAF mutation-positive cell lines and greater anti-tumor activity with respect to tumor growth inhibition in BRAF V600E mutant human melanoma xenograft studies in mice. Additionally, the combination of binimetinib and encorafenib delayed the emergence of resistance in BRAF V600E mutant human melanoma xenografts in mice compared to either drug alone. In a BRAF V600E mutant NSCLC patient-derived xenograft model in mice, coadministration of encorafenib and binimetinib resulted in greater anti-tumor activity compared to binimetinib alone, with respect to tumor growth inhibition. Increased tumor growth delay after dosing cessation was also observed with the coadministration compared to either drug alone.
+
+# 12.2 Pharmacodynamics 
+
+## Cardiac Electrophysiology
+
+Following MEKTOVI 45 mg twice daily, no clinically meaningful QT prolongation was observed.
+
+### 12.3 Pharmacokinetics
+
+The pharmacokinetics of binimetinib was studied in healthy subjects and patients with solid tumors. After twice-daily dosing, the accumulation is 1.5 -fold and the coefficient of variation ( $\mathrm{CV} \%$ ) of the area under the concentration-time curve (AUC) is $<40 \%$ at steady state. The systemic exposure of binimetinib is approximately dose proportional.
+
+## Absorption
+
+After oral administration, at least $50 \%$ of the binimetinib dose was absorbed with a median time to maximum concentration $\left(\mathrm{T}_{\max }\right)$ of 1.6 hours.
+
+## Effect of Food
+
+The administration of a single dose of MEKTOVI 45 mg with a high-fat, high-calorie meal (consisting of approximately 150 calories from protein, 350 calories from carbohydrate, and 500 calories from fat) in healthy subjects had no effect on binimetinib exposure.
+
+## Distribution
+
+Binimetinib is $97 \%$ bound to human plasma proteins and the blood-to-plasma ratio is 0.72 . The geometric mean ( $\mathrm{CV} \%$ ) of apparent volume of distribution of binimetinib is $92 \mathrm{~L}(45 \%)$.
+
+## Elimination
+
+The mean ( $\mathrm{CV} \%$ ) terminal half-life $\left(\mathrm{t}_{1 / 2}\right)$ of binimetinib is 3.5 hours ( $28.5 \%$ ) and apparent clearance (CL/F) is $20.2 \mathrm{~L} / \mathrm{h}(24 \%)$.
+
+## Metabolism
+
+The primary metabolic pathway is glucuronidation with UGT1A1 contributing up to $61 \%$ of the binimetinib metabolism. Other pathways of binimetinib metabolism include N -dealkylation, amide hydrolysis, and loss of ethane-diol from the side chain. The active metabolite M3 produced by CYP1A2 and CYP2C19 represents $8.6 \%$ of the binimetinib exposure. Following a single oral dose of 45 mg radiolabeled binimetinib, approximately $60 \%$ of the circulating radioactivity AUC in plasma was attributable to binimetinib.
+
+## Excretion
+
+Following a single oral dose of 45 mg radiolabeled binimetinib in healthy subjects, $62 \%$ ( $32 \%$ unchanged) of the administered dose was recovered in the feces while $31 \%$ ( $6.5 \%$ unchanged) was recovered in the urine.
+
+## Specific Populations
+
+---
+
+## Page 17
+
+Age (20 to 94 years), sex, or body weight do not have a clinically important effect on the systemic exposure of binimetinib. The effect of race or ethnicity on the pharmacokinetics of binimetinib is unknown.
+Hepatic Impairment: No clinically meaningful changes in binimetinib exposure (AUC and $\mathrm{C}_{\max }$ ) were observed in subjects with mild hepatic impairment (total bilirubin $>1$ and $\leq 1.5 \times$ ULN and any AST or total bilirubin $\leq$ ULN and AST $>$ ULN) as compared to subjects with normal liver function (total bilirubin $\leq$ ULN and AST $\leq$ ULN). A 2-fold increase in AUC was observed in subjects with moderate (total bilirubin $>1.5$ and $\leq 3 \times$ ULN and any AST) or severe (total bilirubin levels $>3 \times$ ULN and any AST) hepatic impairment [see Dosage and Administration (2.4)].
+Renal Impairment: In subjects with severe renal impairment (eGFR $\leq 29 \mathrm{~mL} / \mathrm{min} / 1.73 \mathrm{~m}^{2}$ ), no clinically important changes in binimetinib exposure were observed as compared to subjects with normal renal function.
+
+# Drug Interaction Studies 
+
+## Clinical Studies
+
+Effect of UGT1A1 Inducers or Inhibitors on Binimetinib: UGT1A1 genotype and smoking (UGT1A1 inducer) do not have a clinically important effect on binimetinib exposure. Simulations predict similar $\mathrm{C}_{\max }$ of binimetinib 45 mg in the presence or absence of atazanavir 400 mg (UGT1A1 inhibitor).
+No differences in binimetinib exposure have been observed when MEKTOVI is coadministered with encorafenib.
+Effect of Binimetinib on CYP Substrates: Binimetinib did not alter the exposure of a sensitive CYP3A4 substrate (midazolam).
+Effect of Acid Reducing Agents on Binimetinib: The extent of binimetinib exposure (AUC) was not altered in the presence of a gastric acid reducing agent (rabeprazole).
+
+## In Vitro Studies
+
+Effect of Binimetinib on CYP Substrates: Binimetinib is not a time-dependent inhibitor of CYP1A2, CYP2C9, CYP2D6 or CYP3A.
+Effect of Transporters on Binimetinib: Binimetinib is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP). Binimetinib is not a substrate of organic anion transporting polypeptide (OATP1B1, OATP1B3, OATP2B1) or organic cation transporter 1 (OCT1).
+
+## 13 NONCLINICAL TOXICOLOGY
+
+### 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenicity studies with binimetinib have not been conducted. Binimetinib was not genotoxic in studies evaluating reverse mutations in bacteria, chromosomal aberrations in mammalian cells, or micronuclei in bone marrow of rats.
+
+No dedicated fertility studies have been conducted with binimetinib in animals. In general toxicology studies in rats and monkeys, there were no remarkable findings in male or female reproductive organs.
+
+## 14 CLINICAL STUDIES
+
+### 14.1 BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic Melanoma
+
+MEKTOVI in combination with encorafenib was evaluated in a randomized, active-controlled, open-label, multicenter trial (COLUMBUS; NCT01909453). Eligible patients were required to have BRAF V600E or $V 600 K$ mutation-positive unresectable or metastatic melanoma, as detected using the bioMerieux THxID ${ }^{\mathrm{TM}}$ BRAF assay. Patients were permitted to have received immunotherapy in the adjuvant setting and one prior line of immunotherapy for unresectable locally advanced or metastatic disease. Prior use of BRAF inhibitors or MEK inhibitors was prohibited. Randomization was stratified by American Joint Committee on Cancer (AJCC) Stage (IIIB, IIIC, IVM1a or IVM1b, versus IVM1c), Eastern Cooperative Oncology Group (ECOG) performance status ( 0 versus 1 ), and prior immunotherapy for unresectable or metastatic disease (yes versus no).
+
+---
+
+## Page 18
+
+Patients were randomized (1:1:1) to receive MEKTOVI 45 mg twice daily in combination with encorafenib 450 mg once daily (MEKTOVI in combination with encorafenib), encorafenib 300 mg once daily, or vemurafenib 960 mg twice daily. Treatment continued until disease progression or unacceptable toxicity. Only the results of the approved dosing (MEKTOVI 45 mg in combination with encorafenib 450 mg ) are described below.
+
+The major efficacy outcome measure was progression-free survival (PFS), as assessed by a blinded independent central review, to compare MEKTOVI in combination with encorafenib with vemurafenib. Additional efficacy measures included overall survival (OS), as well as objective response rate (ORR) and duration of response (DoR) which were assessed by central review.
+A total of 577 patients were randomized, 192 to the MEKTOVI in combination with encorafenib arm, 194 to the encorafenib arm, and 191 to the vemurafenib arm. Of the 383 patients randomized to either the MEKTOVI in combination with encorafenib or the vemurafenib arms, the median age was 56 years ( 20 to 89 years), $59 \%$ were male, $91 \%$ were White, and $72 \%$ had baseline ECOG performance status of 0 . Ninetyfive percent $(95 \%)$ had metastatic disease, $65 \%$ were Stage IVM1c, and $4 \%$ received prior CTLA-4, PD-1, or PD-L1 directed antibodies. Twenty-eight percent ( $28 \%$ ) had elevated baseline serum lactate dehydrogenase (LDH), $45 \%$ had $\geq 3$ organs with tumor involvement at baseline, and $3 \%$ had brain metastases. Based on centralized testing, $100 \%$ of patients' tumors tested positive for BRAF mutations; BRAF V600E $(88 \%)$, BRAF V600K $(11 \%)$, or both $(<1 \%)$.
+MEKTOVI in combination with encorafenib demonstrated a statistically significant improvement in PFS compared to vemurafenib. Efficacy results are summarized in Table 7 and Figure 1.
+
+Table 7: Efficacy Results for COLUMBUS
+
+|  | MEKTOVI <br> with encorafenib <br> $\mathrm{N}=192$ | Vemurafenib <br> $\mathrm{N}=191$ |
+| :-- | :--: | :--: |
+| Progression-Free Survival |  |  |
+| Number of events (\%) | $98(51)$ | $106(55)$ |
+| Progressive disease | $88(46)$ | $104(54)$ |
+| Death | $10(5)$ | $2(1)$ |
+| Median PFS, months (95\% CI) | $14.9(11.0,18.5)$ | $7.3(5.6,8.2)$ |
+| HR (95\% CI) | $0.54(0.41,0.71)$ |  |
+| $P$ value $^{\mathrm{b}}$ | $<0.0001$ |  |
+| Overall Survival |  |  |
+| Number of events (\%) | $139(72)$ | $147(77)$ |
+| Median OS, months (95\% CI) | $33.6(24.4,39.2)$ | $16.9(14.0,24.5)$ |
+| HR (95\% CI) | $0.67(0.53,0.84)$ |  |
+| Overall Response Rate | $63 \%(56 \%, 70 \%)$ | $40 \%(33 \%, 48 \%)$ |
+| ORR (95\% CI) | $8 \%$ | $6 \%$ |
+| CR | $55 \%$ | $35 \%$ |
+| PR |  |  |
+| Duration of Response |  |  |
+| Median DoR, months (95\% CI) | $16.6(12.2,20.4)$ | $12.3(6.9,16.9)$ |
+
+$\mathrm{CI}=$ Confidence interval; $\mathrm{CR}=$ Complete response; $\mathrm{DoR}=$ Duration of response; $\mathrm{HR}=$ Hazard ratio; $\mathrm{NE}=$ Not estimable; $\mathrm{ORR}=$ Overall response rate; $\mathrm{OS}=$ Overall survival; $\mathrm{PFS}=$ Progression-free survival; $\mathrm{PR}=$ Partial response.
+a. Estimated with Cox proportional hazard model adjusted by the following stratification factors: American Joint Committee on Cancer (AJCC) Stage (IIIB, IIIC, IVM1a or IVM1b, versus IVM1c) and Eastern Cooperative Oncology Group (ECOG) performance status ( 0 versus 1 ).
+b. Log-rank test adjusted by the same stratification factors.
+c. Based on a cutoff date 82.4 months after the date of PFS analysis.
+
+---
+
+## Page 19
+
+Figure 1: Kaplan-Meier Curves for Progression-Free Survival in COLUMBUS
+![img-1.jpeg](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAMgBL4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiis6XX9GhlaKXVrGORTtZXuEBB9ME0AaNFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABo/4SPQ/wDoM6f/AOBSf40AadFZn/CR6H/0GdP/APApP8aP+Ej0P/oM6f8A+BSf40AadFZn/CR6H/0GdP8A/ApP8aP+Ej0P/oM6f/4FJ/jQBp0Vmf8ACR6H/wBBnT//AAKT/Gj/AISPQ/8AoM6f/wCBSf40AadFZn/CR6H/ANBnT/8AwKT/ABqxaapYX7Mtle21yVGWEMqvge+DQBbooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoozSZzQAtFJmjNAC0UUUAB6V5r4I8MaFq1vrdzf6TaXM/9sXK+ZLErHaGGBnFelVxfw4407Ws/wDQZuv/AEIUAaf/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10OR60UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78LXQ0UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78LXQ0UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78LXQ0UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78LXQ0UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78LXQ0UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78LXQ0UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78LXQ0UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78LXQ0UAc9/wAIJ4U/6F7Tv+/C0f8ACCeFP+he07/vwtdDRQBz3/CCeFP+he07/vwtH/CCeFP+he07/vwtdDRQBz3/AAgnhT/oXtO/78LR/wAIJ4U/6F7Tv+/C10NFAHPf8IJ4U/6F7Tv+/C0f8IJ4U/6F7Tv+/C10NFAHPf8ACCeFP+he07/vwtH/AAgnhT/oXtO/78LXQ0UAc9/wgnhT/oXtO/78LR/wgnhT/oXtO/78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Ddo9Bx0o2j0FOopANx1x1pNo5yBzT6KYDdueopNvsCafRQA3aM9BRtHoKWlpAM2eoBz1p2KWimAUUUUAFFFFABRRRQAUUUUAFcLpn/JZ9e/7BNr/AOhvXdVwumf8ln17/sE2v/ob0Ad1RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABSZpskqxRNI5wqjJPtXDRfEK4Nys82jvHo73BtlvPNyS+7aPkxnBPehauyA7zNGap6hqEen6fLdOCyxrnA7n0rk9P8b6hI1pcajootNOvDiC4+0Bi2RkZXqOPWlfWwdLncUU1WDKGHINV7rUrGxZVu723ty3KiaVUz9MmmBari/hv/wAg7Wv+wzdfzFdF/wAJDov/AEGNP/8AAlP8a5v4aSJLpWsyRuro2s3JVlOQRkcg0AdtRRRQAUUUUAFFFFABXPmeODxJNLK2FEf9P/rV0FczrthIJ2ul+ZG6jHSgDatNTtrxykTHcOxFXM1wdvKYblJNxUBgSQe1dSuuWLMqiQlicAbaANOikzS5oAKKKKAMTxZpNnrXhfULO+j8yAws5UHHKgkfrXnX7O3/ACI956fbW/8AQRXqer/8gW//AOveT/0E15R+zrPCfBt9CJU80XhYpuG4DC849KAPZKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK4XTP8Aks+vf9gm1/8AQ3ruq4XTP+Sz69/2CbX/ANDegDuqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoPSig9KAKl/C09jNEp+ZkIH5V5TJq32/RoPDMdq/8AaseoLI0RiOBGsoJbPTp716+VJz9KaI/YZ9aa0dw3RmXtzaywXNi8bzSRw73jAxwc9D0zxXlcFrpup3djZaRPrEtz5n761upCUtAAfUY9uPWvadvJOBzxSbMHOAKn7VwWisJGuIlU/wB3BrO1Tw5o+tvHJqmm2148YIRpowxUHqBWpilpsS0ObPw/8JY/5F7Tv+/ArK+GFvFa6Nq1vbxrHDHrFyqIowFGR0rua4v4b/8AIO1r/sM3X8xQM7SiiigAooooAKKKKACmsiupVgCp4INOooArHT7Q9beP8qp3+jJcKn2fZCynOQK1aKAMP+ydRxj+0jj8f8apQ6jNp1/Ik8jTqvHB4zXUMMqR6iuIvrSa0uGSXgkkq3rQB2VtcR3UKyxMCp/Spq53Q7m2tLd/NuEUu2QuTxW3BeW9ySIZVcjrigB9xClzbSwSZ2SIUbB5wRg14d8ItIt9B+Lfi7S7QyG3tI/LQvycbxXuh6V83eJb3UPhv8bZtYaWWSyv5DcTQ2vV4jnCHPHUZoA+kqK888F/FrSvGusy6bbWF1aSxxGUtPtAwCBjg9ea78XELEASoc9MMKAJKKTNLQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFcLpn/JZ9e/7BNr/AOhvXdVwumf8ln17/sE2v/ob0Ad1RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXF/Df/kHa1/2Gbr+YrtK4v4b/wDIO1r/ALDN1/MUAdpRRRQAUUUUAFFFFABRRRQAUUUUAFQXFpDdJtmjDAetT0UAcvrlhHbNC0EW1CDuIrNtJJ4pS1sWDgZOPSu2mhSeJo5FDK3UVDbafbWhYxRgE9c0AUtEv3u4WjlYtKnJJFaMtpBMcywxyMBgF1DEfnWRpAC6rf8AAwDgYrdoA8o1/wCBmm654jvdZGtXtnJdPvaKBFAXgDAPpxXmnjLw1B8K/GPh2ddWv723Z/Pl8wjICMOAB7V9RVk6/oFr4g0m5srmOLdNC0SzNGGaPcMZGaAIPCfimx8YaFHq+nrKts7sgEow2VODW5mvFIP2fpLdBHB4x1CGPOSsaFRn6BqyPFnwg1bQfDlxqNj4n1e/uYtu23TdlyTz0agD6CzS14v8K/iYHi/4RrxAsOmyaXbKpnu7ja8rhsEENjnBzXph8ZeGsf8AId0//wACF/xoA28+xpa8O1D9oezt/ErWlvpom0tJQrXJYh9vRiF7+1ex6VqtnrWnQ39hOs1vMoZWUg446fWgC9RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFcLpn/JZ9e/7BNr/AOhvXdVwumf8ln17/sE2v/ob0Ad1RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRTdwoDA0AOoopM0ALRRRQAVxfw3/AOQdrX/YZuv5iu0ri/hv/wAg7Wv+wzdfzFAHaUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAczqFpJYXaXCzn99JyBx3zzXSIwZQQcg9CO9Z+tWf2qzJUEunIH86ZoM7zaeFbH7s7R9KANWiiigApMUtFAHn2sfBrwjrusXeqX0F21zdSGSUpclQSfQVkah+z/AOEpdPnjsRdQXRTEU0k5cI3qR3FesUUAfDviPwpq/hbUri01C0lQQvt80KdjDsQ3TmvqD4LwWlv8NrJLK8+1xea5L+WU2sTkrj2Petvx/p0GpeBdXimtln22zyRoVzhwDggetcH+z5riXXhe50TyHWawlZ3djw29s4x2xigD2OiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii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UAFFFFABWJpx/wCJ7ff571tnoa5xZ3sfEM3mAKkzdT6etAHR0UgOelLQAUUUUAFFFFABXJeM/h7o/jn7J/arXC/Zd3l+S+3rjrxXW0UAeTf8M9+D8f67Uv8Av+P8KP8Ahnrwd/z21H/v8P8ACvWaKAPJv+GevB3/AD21H/v8P8K4r4i/A5NE0r+0/DRnnihBNxBIdz467gfQDrX0dSFQeoBoA+OPAfw41XxlrS25je2soiDcTSKVwP7o9z2OK9v/AOGevB/eXUM+0wH9K9WWNU+6oH0GKfQB4d4o+Auh2fhm/udFF/NqEcW6CNpQQzZHt6ZrZ+AmtXupeDJ7C6WNU0ycW0W0c4xuOfxNeo3QP2OfP/PNv5GvH/2eSBpHiBcjP9odO/3fSgD2eiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArhdM/5LPr3/YJtf/Q3ruq4XTP+Sz69/wBgm1/9DegDuqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAENeZ/Fy91q1h0WDRJhFNc3DRsxjDgDA9Qa9Mryv41xaPJpWmHV9VutOVZnMUltCZGJwMg4IxWct16lQ3NLw/8ADc2Ws2+u6xqst/fxxhVXy1jRDnPG0DP416AOtfN3gOXw6fG+li08Z61eTmb5IJ4GVHODwTuNfSK8gVvK7SM1ox9FJmqK61pkl79jS/tmucn9ysoLce3Wo8ivMv0VHNPHBE0krqkajJZiABWZF4p0CeVYotZsJJGOFVbhSSfpmgDXopAQRkcg9KM0ALXF/Df/AJB2tf8AYZuv5iu0ri/hx/yD9bH/AFGrr+YoA7SiiigAooooAKKKKACiiigAooooAKKKKACiiigArC8QxLiCXaN5fbn2rdrC8SSKsEAyCwfdtz2xQBtR/wCrX6Cn1labq8d2fKdQjjhRnrWrQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAyVBJC8ZOAykH8a8D+FukDw58bNf0WK4lmgt4WwznGTlTkj15xXv9fOXiTUL/4dfHR9cvGEWn6nJvfyxvZoOA3HrkUAfRtFY3hrxTpPi3SxqGk3Hmwk7SCMMp9x2rZoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK4XTP8Aks+vf9gm1/8AQ3ruq4XTP+Sz69/2CbX/ANDegDuqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKDQAlcL8SNftdA0+zmuvDZ1tXkZRH5YfZwOeh613LcKfpXiWpeM9dttS8Q6oNQjS2tm+ywWgzktuK7h+eah6ySKjs2UtB1xPEvjjRG07wU2ji2nLzStFtBXaRj7o7kV70Puge1eFeEr/wAXaF4m0RNY1s6jFrHyPbuxLQcE/geBXugOa2fwL5mV/fZV1GSSPT7l487ljYrj1xXlc+m6fa+EbXVbZkF+dURTdD75BlwVz6Yr19kDqVYAgjkVyMPw70uHUluRcXbwLIZRaPJmEMTnIXHXNRHSVy+h07RpcW3lzxrIjDDK4yDXGWvh/SL/AMWN9n0izht9PPEkcIUmToQa7JbIreyXPnynegTyy3yrjuB61HYaVBp0ly8O4tczGZyxz8xoW9xW92xcC4UKAMYxWF4gsvEt3LAdC1e0sY1B81Z7XzSx7EHIxW/SYoGjiP7G+In/AENWlf8Agt/+ypnwsS5j0HVEu5UluF1e5Ejou1WbI5A7V3dcX8N/+QdrX/YZuv5igDtKKKKACiiigAooooAKKKKACiiigAooooAKKKKACsDxBYySbbpOVRcMPQVv1Dc263NvJCxwHGCRQBxVpMLa7imIzsbOK7W2uEuoElj+61cndaTdWzSHYTEvO8ela2lanZwadFHJMFYZyMUAblFUf7ZsP+fhfyNH9s2H/Pwv5GgC9RVH+2LD/n4X8jTo9Us5pFjjmDM3QAGgC5RRmigAooooAKKKKACiiigAPSvk3416VrNr47ury/SX7DcNutHLblVPQHoOc8V9ZHpXgH7Rur3iHS9HEa/Y5E+0NJs53gkAZ+nagDH/AGebHVJPE9zfQF/7LiiZJwH+XzCPlyvfjPNfS+a+PvhV4n1fQvGNlbWDuba8mSOeEglSCQN2PUZ6+9fYA5oAWiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuF0z/ks+vf9gm1/9Deu6rhdM/5LPr3/AGCbX/0N6AO6ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAQ9K881j4Q6Bq/iga5NJMjAhmgXHlsw7nNeh1wPxR8SaloGjW0elzwWtxdOyi5mbCxhRn9aly5feHFN6GnZeA9ItPFEuvhGe5YYRWwViPqPQ11OOa8W8GeP9Yn1fSLK81W31Frl/s84jcEoQM7uB68V7UM4q+VxSRCabHUUUUigooooAKKKKACuL+G//ACDta/7DN1/MV2lcX8N/+QdrX/YZuv5igDtKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBkkayIUdQVPUGqv9k2H/PrHV2igCn/ZNj/z7R/lR/ZNj/z7R/lVyigCl/ZNj/z7R/lVK70Um5ilsikGz2PWtqigDm5pb+wvLdbm8LIxycdMV0SsGUMDkEZzWR4iijaxEpGXVgBVrTL+G8hCR5zGAGyP8+lAF+iiigAooooAKKKKAA9KwfFfhPTfF+jS6bqUQKMPklA+aI9itb1FAHzN8J5Lfwd8TbnRNasYbaeTdHDcXIPmqT91Rjj5gQelfTArx/4l/DDV9d8VWGv+GBa295H800sshBZwRtbkHpiqf/CPfG3/AKGCyH/A1/8AiaAPbaK8S/4R742/9DDZf99r/wDE0f8ACPfG3/oYbL/vtf8A4mgD22jNeJf8I98bf+hhsv8Avtf/AImsPxXdfF3wbop1bU9fgNsJFiPlbWbLZxxt9qAPonNFeceBvizoviq7stGi+1tqTW+6VpIwFLKoLHOfXNejZ5xQAtFJuGcUtABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFcLpn/JZ9e/7BNr/wChvXdVwumf8ln17/sE2v8A6G9AHdUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAJXBfFTUNMtPC5t9S019SNw22K3QHLMME4I5H4V3teZ/GFUm0zTLYO8F1LMUhull2CE4GSfXNZz2RcPiOa+HEvhnTNZsng8Oy6fdagojR5JGk2t97b8w4PHWvcRXj/AIH+HVvo+vQ3d/4th1VoW320KTfdk5GcbjnivXx7VvK1kYrcdRRRUFhRRRQAUUUUAFcX8N/+QdrX/YZuv5iu0ri/hv8A8g7Wv+wzdfzFAHaUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFADWRXXa6gj0IrF0IAXV6B03/ANTW5WHoX/H3e/8AXT+poA3KKKKACiiigAooooAKKKKAExS0UUAFFFFABUFzaW93D5VzBFPHnOyVAwz9DU9FAHzR8dtCHh3xNZ61ps5tWvIygjtx5fl7ABkFfXNcp8P/AIi614a8Rwsbia7guWWGWGeQtkE8YJ6Yz+NfTHj7wtpvibwrexX9t5rwQvLCyffVlGQB9SBx3r4vKyW8pBDpJG3I5BUjt9aAPvhTnFOrzb4K67q2u+CFk1Z3keGXyopHUgugAIOe/wBfavSaACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK4XTP+Sz69/2CbX/ANDeu6rhdM/5LPr3/YJtf/Q3oA7qiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBpOA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BaswEsqX4coM8kDHP0q9r1/4itJIV0TRoNQRgfMaW6EOw9gARW7ijHPb60AYug32v3Zm/tvSINPC48vyrkS7vrjpWXeav42jvJUtfC9nNbhsRyNqAUsPpjiuuxRtoAyjdax/wjwuRp0R1Xy932Tzvk3em/HT3rJsNW8ZzX0Ed94ZtILZmAllS/DFBnkgY5+ldXijFAGFr1/4itJIV0TRoNQRgfMaW6EW09gOKdoN9r92Zv7b0iDTwuPL8q5Eu76+lbeOe31oxQByN5q/jWO8lS18L2c1uGxHK2oBSw+mOK2Tdax/wjwuRp0R1Xy932Tzvk3em/HT3rV20YoA5Sw1bxnNfQR33hm0gtmYCWVL8MUGeSBjn6Ve16/8RWkkK6Jo0GoIwPmNLdCLaewHFbuKMc9vrQBiaDe6/dmb+29Ig08Ljy/KuRLu+uOlcv4fmvJPjH4ka9t0t2GnwLGFffvTe+G9vpXoeDXD6Xx8Z9e/7BNr0/33oA7miiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBK8w+MVrHcafpkjeIrfRHimZknmVzuOB02g16fXmfxhitl03Tb3UNL+3afbTM1wo6qCAB3FZz6epcNzhvDevz2HiCzutS+LFre2kcmZLb97+8HTHK4r3+2uIrmBJoXEkbjKsDwa+Y7m98Fa5qEc2geFHjsrZd95vB+VTkAj5j/ERXvHw6gnt/AulRzhw4jzh+oGTj9K3esdTF6SSOroooqCwooooAKKKKACuL+G//IO1r/sM3X8xXaVxfw3/AOQdrX/YZuv5igDtKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAhuYBc27wscBxgmuKuoDa3Twk52nGa7uuc1jSJnuGuIA0nmH5lFAEuj6paw2QhmcRtGe/etxXV1DKQQeQR3rg5YpIZCkilX7qa6Lw753kSB93kg/JmgDcooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKTFLRQAmK5/xb4N0rxnpP2DVItwU7o5V4aM9yD7jg10NFAHm1t8D/CFtolzpzW7zPMci7lwZo+n3Tj2rxD4kfCu98GXwnsklutKmP7uQDLRn+63v+FfXHao5IkkXEqK4HPzLmgD4q8CCyj8ZafcajqEOn29rKs7yzBiDtIO3gZBNfaVpdQXtrFcW0qywyqGR1OQRXw/4m0670vxJf2t7bvBMJ3bY644LEg/lXo3w30r4k6zobL4e1uXT9MiYiMyn5GPfbwe9AH1DRXif/CGfGT/AKHSL/vr/wCxo/4Q34x/9DpF/wB9f/Y0Ae2Uma8E13Rfi5oGh3mrXPjFXgtIjK6o2SQPT5a9H+FWr32t/D3T7/U7l7i6kL7pX6nDHH6UAdrRSZpaACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArhdM/5LPr3/YJtf8A0N67quF0z/ks+vf9gm1/9DegDuqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAErh/iTr97pOmWtlpsMUl5fuYovOHyqRg5PUV3BrzP4v8A2efTNOs5gI3nnKx3Jm2GE8ZPas6myLh8RieHL3xZ4a8UWek+LrfT7iPVWMSNAq/KcFuQFHHy17Im1VAUAAdgOK8m8E+BNI0nX4r688Xxa3dof9HRrkMVb2G4npmvWwPpW8tkYrcdRRRUFhRRRQAUUUUAFcX8N/8AkHa1/wBhm6/mK7SuL+G//IO1r/sM3X8xQB2lFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFJilooAoalYw3MDyNHukVTtI9az9CvUit3t5isexjgk9a3z0rA1bSLeO1eaGJjKWHfNAG8rq6hlOQehFLXPQaxPBbpGbGQhFxnBFamnX/ANvgaTZsw23Gc0AXaKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoPIxRRQBzXiLwF4c8VXMVxq+nJPLEMKwYqce+OtbljYW+nWcVpaRJFBEoVEUYwBVmigAxSYpaKAMrxFoq+IfD1/o8kxhju4WiMigEqD3xXzvr/hJPhl438Lww67dTWk8wlkMrbFjCuM8A4xyc19O1yviz4e6B40ntptagllktlKxmOZkw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KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAI3hidgzxqzDuRT8Y6UtFABRRRQAUUUUARvBFKQZI1YjuRTwAAABjHSlooAhNrATkwxknrlalChRgAAD0paKACmsocFWAKnqDTqKAGJEkediKueuBT6KKACiiigCJraF2LNEhY9SVzT1RUGFUAegFOooAKayK67WUEehp1FADEiSMYRFUewp9FFABRRRQAySJJRh0Vh7inKqqoCgADsKWigAooooAKKKKACozBFv3+Wm7+9jmpKKAEx3rxP4I/8jd41Hpdkf8Aj717bXiXwR/5G/xr/wBfh/8AQ3oA9tprIGBVgCp7GnUUARfZodpURJtPbbT1RUGFUAegFOooAK4XTP8Aks+vf9gm1/8AQ3ruq4XTP+Sz69/2CbX/ANDegDuqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKD0ooPSgBhJGfpXzP4ih0HWfEeuX+ueI3tdStJmS1hB6hT8vY/wA6+msGuQvvhf4O1K8lvLvQ4JZ5W3O5duT+dTb3rlJ+60ZPw9+IWh6loGj2FxrUEmsSRKrwnO8vjp0r0TOVrlNM+GnhHSNQhv7HRYYbqFt0cgZiQfXrXWY4rSTvqtzOKsVdQhaawniQ/M8ZA/KvKJdYtr7Qbbw9DCDq6aisjWu3kIsoJfPTpzXsBBIOMVCtrEsvmiKMSf39ozj61MdHcp7WKV1rVhp8VwJ51VraMSSrg5A5x/KuC07xronirVbZ7vVobeBHzBZbWDsx4AfjB/OvTWgjfJeNGJGDkA5HpUY0+0Vgy2kAYdCIxmkvi5hW92xMuCg2YwRx9KyNa8J6F4ilhk1fTLe8eEFYzKM7QeuK2cY6UtMdjkv+FYeCcf8AIuWX/fJ/xqn8LrWGy0TVba2jWKGLV7lERegAI4rua4v4b/8AIO1r/sM3X8xQB2lFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAV4l8Ef+Rv8AGv8A1+H/ANDevba8S+CP/I3+Nf8Ar8P/AKG9AHttFFFABRRRQAVwumf8ln17/sE2v/ob13VcLpn/ACWfXv8AsE2v/ob0Ad1RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXF/Df/kHa1/2Gbr+YrtK4v4b/APIO1r/sM3X8xQB2lFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAV4l8Ef+Rv8a/9fh/9Devba8S+CP8AyN/jX/r8P/ob0Ae20UUUAFFFFABXC6Z/yWfXv+wTa/8Aob13VcLpn/JZ9e/7BNr/AOhvQB3VFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFIWAo3DNAC0UZpM0ALRRRQAVxfw3/wCQdrX/AGGbr+YrtK4v4b/8g7Wv+wzdfzFAHaUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAATgV4b8FbmCHxh40Es0cZa8O0MwGfnfp616/4g1CXSvD2oahAivLbwPKqt0JVSefyr4iuNSuJtZm1JWMNxJcGfKH7r7i2R9DQB935pa4X4S+Jb/xT4Gt73U8G5jkaAvg5faB8x9zXdUAFFFFABXC6Z/yWfXv+wTa/wDob13VcLpn/JZ9e/7BNr/6G9AHdUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAxmVVLNwAM1yUPxC0qXUha+RdrCZTELtowIS4O3buz1zxXSajG8unXCRjLtGQv1xXlc+p6fdeErXS7fa1+uqITag/OMTDLEdcY56UR1lYHsevFgF3dsViWXizSdR8Q3Gi2lwJru3QPKE5Cc4wfetJZYZCbUyoZAgLoG5APGa5mxsbax8fSR20KRj7CpJVQCx39Se5prewvstnY0maWsDX/CGl+JJYZNQN2GhBC+TcvGMHrkA0hm/XF/Dj/kHa1/2Gbr+Ypv/AAqrw0R11L/wYS/41F8LLWOx0LVLWHd5UOr3KJuYscAjqT1oA7uiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAayhlKsAQeoPSvKta+A3h7VvELanHcz2kTurvaRKCjEHnk8816vRQBU0/TrXS7GKzsoEht4gFREGABVuiigAooooAK4XTP8Aks+vf9gm1/8AQ3ruq4XTP+Sz69/2CbX/ANDegDuqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooATHFUF0TTI737Ymn2q3X/PZYlD/nitCijYCEW0SztOI0ErABn28kDoKX7PF5/n+Wvmkbd+OcZ6VLRQAUUUUAFcX8N/+QdrX/YZuv5iu0ri/hv/AMg7Wv8AsM3X8xQB2lFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVwumf8ln17/sE2v/AKG9d1XC6Z/yWfXv+wTa/wDob0Ad1RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXF/Df8A5B2tf9hm6/mK7SuL+G//ACDta/7DN1/MUAdpRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFcLpn/ACWfXv8AsE2v/ob13VcLpn/JZ9e/7BNr/wChvQB3VFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFJmqw1Gza4+zi6hM3/PPzBu/LrQHS5aoppcAZPAHU+lQQ6hZ3EjRw3UMki/eVJAxH1AoAs0UZpMigBa4v4b/wDIO1r/ALDN1/MV2ecCuM+HHGn62P8AqM3X8xQB2lFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVwumf8ln17/sE2v/AKG9d1XC6Z/yWfXv+wTa/wDob0Ad1RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFB6UUUAU9QleKxuJEzuWNiMeteUS6Pp9l4cttet2jTVX1JVa7x87AygMueuMcV7C6LIjIwBVhgg964yH4dW0WoiZtSu5LETGZdPbb5KvnduxjOc470R0lcOhteIJpIvD9w0bENsxkdeetcFaaNp+h3HhC907yorq9m2XMyDDXA2E8nv616PNpf2ia4M1xI8E0Qj8hsbU6/MPeuf0f4f2+lajBcyald3kNrzaW023Zbn/ZwM9M04u0ri2ikdeORWFr9v4omlhPh++023jAPmi8heQk54xgit7FLSBKyOJ+w/En/oM+H/8AwEk/xqL4VrcpoOqLePG9yNXufNaNcKWyMkCu7ri/hv8A8g7Wv+wzdfzFAztKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArhdM/5LPr3/YJtf/Q3ruq4XTP+Sz69/wBgm1/9DegDuqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK4v4ccadrWf+gzc/wAxXaV5N4T8DaR4gGt3t498sv8Aa1ymLe8kiXAYdlIGaAPW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ACiiigAooooA5jxXpV3qd74ektY962epxzzHONqAHJ/WunpMHPaloAKKKKACiiigAooooAK5TxVpF7qev+FLq1i3xWOoGe4OcbUMbDP5murNNA+lADqKKKACiiigAooooAKKKSgDlbDR72H4mavrDxAWVxYQQxyZ6srMSMfiK6um4p2aACiiigAooooAKKKKACuU8AaPe6HoNza38XlyyahczqAc/K0hK/oa6vtTcUAOooooAKKKKACiiigAooooA5jwFpN5ovhdLK+i8ucTzOVBzwzlh+hrp6bgj0p1ABRRRQAUUUUAFFFB6UAc7440261nwZqWn2Ue+5njUIpOMncD/Stu1VktIUYYZY1BHocVKevaigB1FFFABRRRQAUUUUAFcx4h0m8v/FPhi8t490FjPM87Z+6GTA/WunpuOc0AOooooAKKKKACiiigAoopO1AHM6ppN5c+O/D+pRR5tbOK4SZ8/dLKAOPwrp6bg5FOoAKKKKACiiigAooooAK5jQNKu7LxZ4lvp49tvfSwNA2fvBUINdPSY+lAC0UUUAFFFFABRRRQAVHcKXtpVUZZkIA/CpKQ0Ac94F0y60bwbp+n3sfl3MKsHUHOMuSP510VIBS0AFFFFABRRRQAUUUUAVtQiefTbqGMZeSF1UepIIFY3gXTbrRvBGj6beoI7q2t1jkQHODzXRU3HIoAdRRRQAUUUUAFFFFABXK+P9Hvdc8PwWljGHlW/tpiCcfKkgZj+QrqqTFAAOQOMUtJS5oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiignAzQAmaM1y/jHUtQtbKC20t/LuriVU8zrsXIBPP1qr4ZutWs/EV9oGp3r6h9niSdLuRArMGJGCBxxgfnQlcHodnRRRQAUUUUAFFFFABSbgOpx9aD0rmdf03X9S1CFbDWG0uxRGMksSh3LZ44PakB02aWuW8FXl/cafLHfXZvTDK6LdEAeYM+3FdTTEFFFFAwooooAKKKQ9DQAZozXD+LfFN9A/2XQwjyQv/AKXJniIY6Z/vc5xXY2rl7WFmOWZAScdSRSV2rg9HYsUUUUwCiiigAooooADwOaTcM45pksgjidz/AAqW/KvIb7xZrN9qM9zZXuqRQxS7Y4ra0WS3Yf7b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)
+> **Image annotation:** Kaplan–Meier curves showing probability of progression-free survival over time (months) in the COLUMBUS study, comparing MEKTOVI plus encorafenib versus vemurafenib; the combination arm remains higher over most of follow-up, with numbers of patients at risk listed below the plot.
+
+# 14.2 BRAF V600E Mutation-Positive Metastatic Non-Small Cell Lung Cancer 
+
+MEKTOVI in combination with encorafenib was evaluated in an open-label, multicenter, single-arm study in patients with BRAF V600E mutation-positive metastatic non-small cell lung cancer (NSCLC) (PHAROS; NCT03915951). Eligible patients had a diagnosis of histologically-confirmed metastatic NSCLC with BRAF V600E mutation that was treatment-naïve or had been previously treated with 1 prior line of systemic therapy in the metastatic setting (platinum-based chemotherapy and/or anti-PD-1/PD-L1 therapies), age 18 years or older, Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 , and measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1. Prior use of BRAF inhibitors or MEK inhibitors was not allowed.
+Patients received MEKTOVI 45 mg orally twice daily and encorafenib 450 mg once daily until disease progression or unacceptable toxicity. The major efficacy outcome measures were objective response rate (ORR) per RECIST v1.1 and duration of response (DoR) as assessed by independent review committee (IRC).
+In the efficacy population, BRAF V600E mutation status was determined by prospective local testing using tumor tissue ( $78 \%$ ) or blood ( $22 \%$ ) specimens. Of the 98 patients with BRAF V600E mutation, 6 patients were enrolled into the trial based on testing of their tumor tissue specimens with the FoundationOne CDx tissue test. Of the remaining 92 patients enrolled based on local testing, 68 patients had their tumor tissue specimens retrospectively confirmed as having BRAF V600E positive status by the FoundationOne CDx tissue test. The remaining patients had either BRAF V600E negative status ( $\mathrm{n}=5$ ) or had unevaluable results $(\mathrm{n}=19)$ by the FoundationOne CDx tissue test. In addition, plasma samples from 81 out of 98 patients were retrospectively tested using the FoundationOne Liquid CDx assay. Of the 81 patients, 48 were confirmed positive for BRAF V600E, while 33 patients were BRAF V600E mutation negative by FoundationOne Liquid CDx assay. The remaining 17 samples had unevaluable results with FoundationOne Liquid CDx assay.
+The efficacy population included 59 treatment-naïve patients and 39 previously-treated patients. Among these 98 patients, the median age was 70 years (range: 47 to 86); $53 \%$ female; $88 \%$ White, $7 \%$ Asian, $3 \%$ Black or African American, and 1\% American Indian or Alaska Native; 99\% were not Hispanic or Latino; $13 \%$ were current smokers and $57 \%$ were former smokers; $73 \%$ had ECOG PS of 1 ; and $97 \%$ had adenocarcinoma. All patients had metastatic disease and $8 \%$ had brain metastases at baseline.
+
+---
+
+## Page 20
+
+Efficacy results for patients with BRAF V600E mutation-positive metastatic NSCLC are summarized in Table 8 .
+
+Table 8: Efficacy Results for PHAROS
+
+|  | MEKTOVI with encorafenib |  |
+| :--: | :--: | :--: |
+| Efficacy Parameter | Treatment naïve $(\mathrm{N}=59)$ | Previously treated $(\mathrm{N}=39)$ |
+| Objective Response Rate ${ }^{\text {a }}$ |  |  |
+| ORR ( $95 \%$ CI) | $75 \%(62,85)$ | $46 \%(30,63)$ |
+| CR | $15 \%$ | $10 \%$ |
+| PR | $59 \%$ | $36 \%$ |
+| Duration of Response ${ }^{\text {a,b }}$ | $\mathrm{N}=44$ | $\mathrm{~N}=18$ |
+| Range in months | $1.4,51.6+$ | $3.8,45.8+$ |
+| $\%$ with DoR $\geq 12$ months | $64 \%$ | $44 \%$ |
+| $\%$ with DoR $\geq 24$ months | $43 \%$ | $22 \%$ |
+
+$\mathrm{CI}=$ Confidence interval; $\mathrm{CR}=$ Complete response; $\mathrm{DoR}=$ Duration of response; $\mathrm{N}=$ Number of patients; $\mathrm{NE}=$ Not estimable; ORR $=$ Objective response rate; $\mathrm{PR}=$ Partial response.
+a. Assessed by Independent Central Review (ICR).
+b. Based on observed duration of response.
+
+# 16 HOW SUPPLIED/STORAGE AND HANDLING 
+
+MEKTOVI (binimetinib) is supplied as 15 mg yellow to dark yellow, unscored ovaloid biconvex filmcoated tablets debossed with stylized "A" debossed on one side and " 15 " on the other side.
+Carton box containing 7 polyvinyl chloride/ polyvinylidene chloride blisters with aluminum foil backing, each blister containing 12 film coated tablets with insert leaflet.
+Store below $30^{\circ} \mathrm{C}$.
+Shelf life: see outer pack.
+
+## 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the approved patient labeling (Medication Guide).
+Inform patients of the following:
+
+## New Primary Malignancies
+
+Advise patients that MEKTOVI administered with encorafenib can result in the development of new primary cutaneous and non-cutaneous malignancies. Advise patients to contact their healthcare provider immediately for any new lesions, changes to existing lesions on their skin, or other signs and symptoms of malignancies [see Warnings and Precautions (5.1)].
+
+## Cardiomyopathy
+
+Advise patients to report any symptoms of heart failure to their healthcare provider [see Warnings and Precautions (5.2)].
+
+## Venous Thromboembolism
+
+Advise patients to contact their healthcare provider if they experience symptoms of venous thrombosis or pulmonary embolism. Advise patients to seek medical attention for sudden onset of difficulty breathing, leg pain, or swelling [see Warnings and Precautions (5.3)].
+
+## Ocular Toxicities
+
+Advise patients to contact their healthcare provider as soon as possible if they experience any changes in their vision [see Warnings and Precautions (5.4)].
+
+## Interstitial Lung Disease
+
+Advise patients to contact their healthcare provider if they experience any new or worsening respiratory symptoms including cough or dyspnea [see Warnings and Precautions (5.5)].
+
+---
+
+## Page 21
+
+# Hepatotoxicity 
+
+Advise patients that serial testing of serum liver tests (ALT, AST, bilirubin) is recommended during treatment with MEKTOVI. Instruct patients to report symptoms of liver dysfunction including jaundice, dark urine, nausea, vomiting, loss of appetite, fatigue, bruising, or bleeding [see Warnings and Precautions (5.6)].
+
+## Rhabdomyolysis
+
+Advise patients to contact their healthcare provider as soon as possible if they experience unusual or new onset weakness, myalgia, or darkened urine [see Warnings and Precautions (5.7)].
+
+## Hemorrhage
+
+Advise patients to notify their healthcare provider if they experience symptoms suggestive of hemorrhage, such as unusual bleeding [see Warnings and Precautions (5.8)].
+
+## Females and Males of Reproductive Potential
+
+Embryo-Fetal Toxicity: Advise females with reproductive potential of the potential risk to a fetus. Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, during treatment with MEKTOVI [see Warnings and Precautions (5.9), Use in Specific Populations (8.1)]. Advise females of reproductive potential to use effective contraception during treatment with MEKTOVI and for 30 days after the last dose.
+
+Lactation: Advise women not to breastfeed during treatment with MEKTOVI and for 3 days after the last dose [see Use in Specific Populations (8.2)].
+
+## MARKETING AUTHORISATION HOLDER
+
+Pfizer Europe MA EEIG<br>Boulevard de la Plaine 17<br>1050 Bruxelles<br>Belgium
+
+## MANUFACTURER
+
+See the outer label for Manufacturer Information
+
+Revision Date: March 2025
+
+---
+
+## Page 22
+
+# MEDICATION GUIDE 
+
+MEKTOVI ${ }^{\circledR}$ (mek-TOE-vee)
+(binimetinib)
+tablets
+Important Information: If your healthcare provider prescribes MEKTOVI with encorafenib, please read the Medication Guide that comes with encorafenib.
+
+## What is the most important information I should know about MEKTOVI when taken in combination with encorafenib?
+
+## MEKTOVI when taken in combination with encorafenib may cause serious side effects, including:
+
+- Risk of new skin cancers. MEKTOVI, when used with encorafenib, may cause skin cancers called cutaneous squamous cell carcinoma or basal cell carcinoma.
+Talk to your healthcare provider about your risk for these cancers.
+Check your skin and tell your healthcare provider right away about any skin changes, including a:
+- new wart
+- skin sore or reddish bump that bleeds or does not heal
+- change in size or color of a mole
+
+Your healthcare provider should check your skin before treatment with MEKTOVI, when taken in combination with encorafenib, every 2 months during treatment, and for up to 6 months after you stop treatment to look for any new skin cancers.
+Your healthcare provider should also check for cancers that may not occur on the skin. Tell your healthcare provider about any new symptoms that develop during treatment with MEKTOVI when taken in combination with encorafenib.
+See "What are the possible side effects of MEKTOVI?" for more information about side effects.
+
+## What is MEKTOVI?
+
+MEKTOVI is a prescription medicine used:
+
+- in combination with a medicine called encorafenib to treat people with a type of skin cancer called melanoma:
+- that has spread to other parts of the body or cannot be removed by surgery, and
+- that has a certain type of abnormal "BRAF" gene
+- in combination with a medicine called encorafenib to treat adults with a type of lung cancer called non-small cell lung cancer (NSCLC):
+- that has spread to other parts of the body, and
+- that has a certain type of abnormal "BRAF" gene
+
+Your healthcare provider will perform a test to make sure that MEKTOVI is right for you.
+It is not known if MEKTOVI is safe and effective in children.
+Before taking MEKTOVI, tell your healthcare provider about all of your medical conditions, including if you:
+
+- have heart problems
+- have had blood clots
+- have eye problems
+- have lung or breathing problems
+- have liver or kidney problems
+- have any muscle problems
+- have bleeding problems
+- have high blood pressure (hypertension)
+- are pregnant or plan to become pregnant. MEKTOVI can harm your unborn baby.
+- Females who are able to become pregnant should use effective birth control (contraception) during treatment with MEKTOVI and for at least 30 days after the last dose of MEKTOVI.
+- Talk to your healthcare provider about birth control methods that may be right for you during this time.
+- Your healthcare provider will do a pregnancy test before you start taking MEKTOVI. Tell your healthcare provider right away if you become pregnant or think you might be pregnant during treatment with MEKTOVI.
+
+---
+
+## Page 23
+
+- are breastfeeding or plan to breastfeed. It is not known if MEKTOVI passes into your breast milk. Do not breastfeed during treatment with MEKTOVI and for 3 days after the last dose of MEKTOVI. Talk to your healthcare provider about the best way to feed your baby during this time.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
+
+
+# How should I take MEKTOVI? 
+
+- Take MEKTOVI exactly as your healthcare provider tells you to take it. Do not change your dose or stop taking MEKTOVI unless your healthcare provider tells you to.
+- Take MEKTOVI in combination with encorafenib by mouth 2 times a day, about 12 hours apart.
+- MEKTOVI may be taken with or without food.
+- If you miss a dose of MEKTOVI, take it as soon as you remember. If it is within 6 hours of your next scheduled dose, take your next dose at your regular time. Do not make up for the missed dose.
+- Do not take an extra dose if you vomit after taking your scheduled dose. Take your next dose at your regular time.
+- If you stop treatment with encorafenib, talk to your healthcare provider about whether your MEKTOVI treatment may need to be stopped.
+
+
+## What are the possible side effects of MEKTOVI?
+
+## MEKTOVI may cause serious side effects, including:
+
+- Heart problems, including heart failure. MEKTOVI, when taken with encorafenib, can cause heart problems. Your healthcare provider should check your heart function before and during treatment with MEKTOVI. Call your healthcare provider right away if you have any of the following signs and symptoms of a heart problem:
+- feeling like your heart is pounding or racing
+- shortness of breath
+- swelling of your ankles and feet
+- feeling lightheaded
+- Blood clots. MEKTOVI, when taken with encorafenib, can cause blood clots in your arms or legs, which can travel to your lungs and can lead to death. Get medical help right away if you have the following symptoms:
+- chest pain
+- sudden shortness of breath or trouble breathing
+- pain in your legs with or without swelling
+- swelling in your arms and legs
+- a cool pale arm or leg
+- Eye problems. MEKTOVI, when taken with encorafenib, can cause eye problems. Your healthcare provider should perform an eye exam regularly during treatment with MEKTOVI. Tell your healthcare provider right away if you develop any new or worsening symptoms of eye problems, including:
+- blurred vision, loss of vision, or other vision changes
+- see colored dots
+- see halos (blurred outline around objects)
+- eye pain, swelling, or redness
+- Lung or breathing problems. MEKTOVI, when taken with encorafenib, can cause lung or breathing problems. Tell your healthcare provider if you have any new or worsening symptoms of lung or breathing problems, including:
+- shortness of breath
+- cough
+- Liver problems. MEKTOVI, when taken with encorafenib, can cause liver problems. Your healthcare provider should perform blood tests to check your liver function before and during treatment with MEKTOVI. Tell your healthcare provider if you have any of the following signs and symptoms of a liver problem:
+- yellowing of your skin or your eyes
+- tiredness
+- dark or brown (tea-colored) urine
+- bruising
+- nausea or vomiting
+- bleeding
+- loss of appetite
+- Muscle problems (rhabdomyolysis). MEKTOVI, when taken with encorafenib, can cause muscle problems that can be severe. Treatment with MEKTOVI may increase the level of an enzyme in your blood called creatine phosphokinase (CPK) and can be a sign of muscle damage. Your healthcare provider should perform
+
+---
+
+## Page 24
+
+a blood test to check your levels of CPK before and during treatment. Tell your healthcare provider right away if you develop any of these symptoms:
+
+- weakness
+- muscle aches or pain
+- dark, reddish urine
+- Bleeding problems. MEKTOVI, when taken with encorafenib, can cause serious bleeding problems, including in your brain or stomach, that can lead to death. Tell your healthcare provider and get medical help right away if you develop any signs of bleeding, including:
+- headaches, dizziness, or feeling weak
+- cough up blood or blood clots
+- vomit blood or your vomit looks like "coffee grounds"
+- red or black stool that look like tar
+
+Your healthcare provider may change your dose, temporarily stop, or permanently stop treatment with MEKTOVI if you have certain side effects.
+
+# The most common side effects of MEKTOVI when taken with encorafenib for melanoma include: 
+
+- fatigue
+- nausea
+- diarrhea
+
+The most common side effects of MEKTOVI when taken with encorafenib for NSCLC include:
+
+- fatigue
+- nausea
+- diarrhea
+- muscle or joint pain
+- vomiting
+- stomach-area (abdominal) pain
+- blurred vision, loss of vision, or other vision changes
+- constipation
+- shortness of breath
+- rash
+- cough
+
+These are not all of the possible side effects of MEKTOVI.
+Call your doctor for medical advice about side effects.
+To report any side effect(s):
+
+## Egypt:
+
+Pharmacovigilance center, Pfizer Pharmaceutical Company: EGY.AEReporting@pfizer.com Egyptian Pharmacovigilance center (EPVC), EDA: pv.followup@edaegypt.gov.eg
+
+## How should I store MEKTOVI?
+
+- Store MEKTOVI below $30^{\circ} \mathrm{C}$.
+
+Keep MEKTOVI and all medicines out of the reach of children.
+General information about the safe and effective use of MEKTOVI.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use MEKTOVI for a condition for which it was not prescribed. Do not give MEKTOVI to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about MEKTOVI that is written for health professionals.
+
+## What are the ingredients in MEKTOVI?
+
+## Active ingredient: binimetinib
+
+Inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, magnesium stearate (vegetable origin), and silica colloidal anhydrous.
+The film coating contains: polyvinyl alcohol, macrogol, titanium dioxide, talc, iron oxide yellow, iron oxide black.
+MARKETING AUTHORISATION HOLDERPfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Belgium
+
+## MANUFACTURER
+
+See the outer label for Manufacturer Information
+
+---
+
+## Page 25
+
+# THIS IS A MEDICAMENT 
+
+- Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.
+- Follow strictly the doctor's prescription, the method of use and the instructions of the Pharmacist who sold the medicament.
+- The doctor and the Pharmacist are experts in medicines, their benefits and risks.
+- Do not by yourself interrupt the period of treatment prescribed.
+- Do not repeat the same prescription without consulting your doctor.
+
+Keep all medicaments out of reach and sight of children
+Council of Arab Health Ministers
+Union of Arabic Pharmacists
+
+---
